@@ -1,15 +1,22 @@
 <div align="center">
 
-# 🚀 DOJICREATES
+```
+██████╗  ██████╗      ██╗██╗ ██████╗██████╗ ███████╗ █████╗ ████████╗███████╗███████╗
+██╔══██╗██╔═══██╗     ██║██║██╔════╝██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██╔════╝██╔════╝
+██║  ██║██║   ██║     ██║██║██║     ██████╔╝█████╗  ███████║   ██║   █████╗  ███████╗
+██║  ██║██║   ██║██   ██║██║██║     ██╔══██╗██╔══╝  ██╔══██║   ██║   ██╔══╝  ╚════██║
+██████╔╝╚██████╔╝╚█████╔╝██║╚██████╗██║  ██║███████╗██║  ██║   ██║   ███████╗███████║
+╚═════╝  ╚═════╝  ╚════╝ ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=CONTENT+CREATOR;TECH+INFLUENCER;DIGITAL+ARCHITECT;CODE+%7C+AI+%7C+GROWTH" alt="Typing SVG" />
 
 ### `⚡ Empowering minds through technology, code, and growth`
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/dojicreates)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dojicreates)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@dojicreates)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@dojicreates)
+<a href="https://facebook.com/dojicreates" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://instagram.com/dojicreates" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://tiktok.com/@dojicreates" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" /></a>
+<a href="https://youtube.com/@dojicreates" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -54,7 +61,7 @@ focus:
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="80" style="pointer-events: none;"/>
 
 ### 💻 **TECHNOLOGY**
 `Web Development`  
@@ -64,7 +71,7 @@ focus:
 
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="80" style="pointer-events: none;"/>
 
 ### 🤖 **AI & ROBOTICS**
 `Neural Networks`  
