@@ -62,29 +62,36 @@ Maximizing human potential through strategic thinking, financial literacy, and s
 
 ### **Featured Video Content**
 
-#### `[V.001]` **Video Title Alpha**
-[![Video Thumbnail](https://img.youtube.com/vi/6XJ8294lC0c/maxresdefault.jpg)](https://youtu.be/6XJ8294lC0c?si=hnEpeA_CLGzL1gMG)
-```
-► WATCH NOW: https://youtu.be/6XJ8294lC0c
-```
+<table>
+<tr>
+<td width="50%">
 
-#### `[V.002]` **Video Title Beta**
-[![Video Thumbnail](https://img.youtube.com/vi/Pyx9oLYpbi4/maxresdefault.jpg)](https://youtu.be/Pyx9oLYpbi4?si=Aqr284t4U4DmPUJR)
-```
-► WATCH NOW: https://youtu.be/Pyx9oLYpbi4
-```
+#### `[V.001]`
+[![Video](https://img.youtube.com/vi/6XJ8294lC0c/mqdefault.jpg)](https://youtu.be/6XJ8294lC0c?si=hnEpeA_CLGzL1gMG)
 
-#### `[V.003]` **Video Title Gamma**
-[![Video Thumbnail](https://img.youtube.com/vi/xZ9umpUHRdU/maxresdefault.jpg)](https://youtu.be/xZ9umpUHRdU?si=wOZ9S9jMXe5jHn6l)
-```
-► WATCH NOW: https://youtu.be/xZ9umpUHRdU
-```
+</td>
+<td width="50%">
 
-#### `[V.004]` **Video Title Delta**
-[![Video Thumbnail](https://img.youtube.com/vi/te1eLWfdd0I/maxresdefault.jpg)](https://youtu.be/te1eLWfdd0I?si=Tx2pQ-ijfx9BxW5M)
-```
-► WATCH NOW: https://youtu.be/te1eLWfdd0I
-```
+#### `[V.002]`
+[![Video](https://img.youtube.com/vi/Pyx9oLYpbi4/mqdefault.jpg)](https://youtu.be/Pyx9oLYpbi4?si=Aqr284t4U4DmPUJR)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### `[V.003]`
+[![Video](https://img.youtube.com/vi/xZ9umpUHRdU/mqdefault.jpg)](https://youtu.be/xZ9umpUHRdU?si=wOZ9S9jMXe5jHn6l)
+
+</td>
+<td width="50%">
+
+#### `[V.004]`
+[![Video](https://img.youtube.com/vi/te1eLWfdd0I/mqdefault.jpg)](https://youtu.be/te1eLWfdd0I?si=Tx2pQ-ijfx9BxW5M)
+
+</td>
+</tr>
+</table>
 
 ---
 
