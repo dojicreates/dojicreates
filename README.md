@@ -20,6 +20,69 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 📡 LATEST.CONTENT
+
+<div align="center">
+
+### 🎥 **Featured YouTube Tutorials**
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<a href="https://youtu.be/6XJ8294lC0c?si=hnEpeA_CLGzL1gMG">
+  <img src="https://img.youtube.com/vi/6XJ8294lC0c/maxresdefault.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Tutorial 1"/>
+</a>
+
+**`Tutorial #001`**
+
+[![Watch](https://img.shields.io/badge/▶_WATCH_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/6XJ8294lC0c)
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://youtu.be/Pyx9oLYpbi4?si=Aqr284t4U4DmPUJR">
+  <img src="https://img.youtube.com/vi/Pyx9oLYpbi4/maxresdefault.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Tutorial 2"/>
+</a>
+
+**`Tutorial #002`**
+
+[![Watch](https://img.shields.io/badge/▶_WATCH_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Pyx9oLYpbi4)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<a href="https://youtu.be/xZ9umpUHRdU?si=wOZ9S9jMXe5jHn6l">
+  <img src="https://img.youtube.com/vi/xZ9umpUHRdU/maxresdefault.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Tutorial 3"/>
+</a>
+
+**`Tutorial #003`**
+
+[![Watch](https://img.shields.io/badge/▶_WATCH_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/xZ9umpUHRdU)
+
+</td>
+<td width="50%" align="center">
+
+<a href="https://youtu.be/te1eLWfdd0I?si=Tx2pQ-ijfx9BxW5M">
+  <img src="https://img.youtube.com/vi/te1eLWfdd0I/maxresdefault.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Tutorial 4"/>
+</a>
+
+**`Tutorial #004`**
+
+[![Watch](https://img.shields.io/badge/▶_WATCH_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/te1eLWfdd0I)
+
+</td>
+</tr>
+</table>
+
+### 📺 [**VIEW ALL TUTORIALS →**](https://youtube.com/@dojicreates)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
 ## 🎯 SYSTEM.INITIALIZE()
@@ -53,7 +116,7 @@ core_focus:
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## ⚡ CORE.MODULES
 
@@ -96,7 +159,7 @@ core_focus:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🎓 WHO.THIS.IS.FOR
 
@@ -105,7 +168,7 @@ core_focus:
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/student-male.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/000000/student-male.png" width="70" style="pointer-events: none;"/>
 
 ### **CS/IT Students**
 BSCS • BSIT • BSIS  
@@ -113,7 +176,7 @@ BSCPE • ICT Programs
 
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/coding.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/000000/coding.png" width="70" style="pointer-events: none;"/>
 
 ### **Beginners**
 Starting your  
@@ -121,7 +184,7 @@ coding journey
 
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/philippines.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/000000/philippines.png" width="70" style="pointer-events: none;"/>
 
 ### **Filipino Devs**
 Learning in  
@@ -129,7 +192,7 @@ Tagalog
 
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/goal.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/000000/goal.png" width="70" style="pointer-events: none;"/>
 
 ### **Career Shifters**
 Transitioning to  
@@ -141,7 +204,7 @@ tech careers
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🛠️ TECH.STACK
 
@@ -150,23 +213,23 @@ tech careers
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/html-5--v1.png" width="65"/>
+<img src="https://img.icons8.com/color/96/000000/html-5--v1.png" width="65" style="pointer-events: none;"/>
 <br><strong>HTML5</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/css3.png" width="65"/>
+<img src="https://img.icons8.com/color/96/000000/css3.png" width="65" style="pointer-events: none;"/>
 <br><strong>CSS3</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/javascript--v1.png" width="65"/>
+<img src="https://img.icons8.com/color/96/000000/javascript--v1.png" width="65" style="pointer-events: none;"/>
 <br><strong>JavaScript</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="65"/>
+<img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="65" style="pointer-events: none;"/>
 <br><strong>C++</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/python--v1.png" width="65"/>
+<img src="https://img.icons8.com/color/96/000000/python--v1.png" width="65" style="pointer-events: none;"/>
 <br><strong>Python</strong>
 </td>
 </tr>
@@ -183,7 +246,7 @@ tech careers
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 📊 CONTENT.DISTRIBUTION
 
@@ -233,7 +296,7 @@ pie title Content Focus Areas
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 💡 MISSION.STATEMENT
 
@@ -250,31 +313,31 @@ pie title Content Focus Areas
 <table>
 <tr>
 <td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/light.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/light.png" style="pointer-events: none;"/>
 <br><strong>CLARITY</strong>
 <br>
 <sub>Tagalog explanations</sub>
 </td>
 <td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/diamond.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/diamond.png" style="pointer-events: none;"/>
 <br><strong>VALUE</strong>
 <br>
 <sub>Free quality content</sub>
 </td>
 <td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/infinity.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/infinity.png" style="pointer-events: none;"/>
 <br><strong>CONSISTENCY</strong>
 <br>
 <sub>Regular tutorials</sub>
 </td>
 <td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/innovation.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/innovation.png" style="pointer-events: none;"/>
 <br><strong>INNOVATION</strong>
 <br>
 <sub>Modern tech education</sub>
 </td>
 <td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/verified-badge.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/verified-badge.png" style="pointer-events: none;"/>
 <br><strong>FAITH</strong>
 <br>
 <sub>God-honoring work</sub>
@@ -288,7 +351,7 @@ pie title Content Focus Areas
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🚀 CONTENT.PHILOSOPHY
 
@@ -297,7 +360,7 @@ pie title Content Focus Areas
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/education.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/000000/education.png" width="70" style="pointer-events: none;"/>
 
 ### 📚 **EDUCATE**
 Tagalog programming tutorials  
@@ -305,7 +368,7 @@ Free for all Filipino learners
 
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png" width="70" style="pointer-events: none;"/>
 
 ### ⚡ **INSPIRE**
 Showing what's achievable  
@@ -313,7 +376,7 @@ Building Filipino tech excellence
 
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/muscle.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/000000/muscle.png" width="70" style="pointer-events: none;"/>
 
 ### 💪 **EMPOWER**
 Practical skills & projects  
@@ -325,16 +388,17 @@ Real-world applications
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 📈 GROWTH.TRAJECTORY
 
 <div align="center">
 
 ```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'fontSize': '16px'}}}%%
 graph LR
-    A[2024<br/>Foundation] -->|Build| B[2025<br/>Scale]
-    B -->|Expand| C[Future<br/>Impact]
+    A["2024<br/>Foundation"] -->|Build| B["2025<br/>Scale"]
+    B -->|Expand| C["Future<br/>Impact"]
     
     style A fill:#00d4ff,stroke:#00a8cc,stroke-width:3px,color:#000
     style B fill:#00ff88,stroke:#00cc6a,stroke-width:3px,color:#000
@@ -375,25 +439,26 @@ graph LR
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🎓 LEARNING.PATH
 
 <div align="center">
 
 ```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'fontSize': '16px'}}}%%
 graph TD
-    START[🎯 START HERE] --> A[📘 BEGINNER]
+    START["🎯 START HERE"] --> A["📘 BEGINNER"]
     A --> A1[HTML/CSS Basics]
     A --> A2[C++ Fundamentals]
     A --> A3[Programming Logic]
     
-    A --> B[📗 INTERMEDIATE]
+    A --> B["📗 INTERMEDIATE"]
     B --> B1[JavaScript Projects]
     B --> B2[Python Programming]
     B --> B3[Data Structures]
     
-    B --> C[📕 ADVANCED]
+    B --> C["📕 ADVANCED"]
     C --> C1[Web Development]
     C --> C2[AI/ML Implementation]
     C --> C3[Full-Stack Projects]
@@ -430,7 +495,7 @@ graph TD
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/video.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/000000/video.png" width="70" style="pointer-events: none;"/>
 
 ### 🎥 **Video Tutorials**
 Full-length Tagalog  
@@ -438,7 +503,7 @@ coding lessons
 
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/pdf.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/000000/pdf.png" width="70" style="pointer-events: none;"/>
 
 ### 📄 **PDF Notes**
 Downloadable study  
@@ -446,7 +511,7 @@ materials & guides
 
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="70" style="pointer-events: none;"/>
 
 ### 💻 **Source Code**
 GitHub repos &  
@@ -454,7 +519,7 @@ project files
 
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/toolbox.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/000000/toolbox.png" width="70" style="pointer-events: none;"/>
 
 ### 🛠️ **Dev Tools**
 Utilities & helper  
