@@ -616,7 +616,7 @@ commitment:         GOD-FEARING • EXCELLENCE-DRIVEN
 
 > ### *"Para sa lahat ng Filipino developers na may pangarap: The future belongs to those who code it, design it, and create it."*
 > 
-> Whether you're a **CS/IT student**, writing your **first line of code**, or **transitioning to tech**—this is your space to learn programming **in Tagalog**, grow together, and build the future.
+> Whether you're a **CS/IT student**, writing your **first line of code**, or **transitioning to tech** this is your space to learn programming **in Tagalog**, grow together, and build the future.
 
 <br>
 
