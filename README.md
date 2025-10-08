@@ -13,6 +13,10 @@
 
 ### `⚡ Empowering God-Fearing Filipino Developers Through Technology & Growth`
 
+<p align="center">
+  <strong>Content Creator</strong> • <strong>Tech Educator</strong> • <strong>Filipino Dev Advocate</strong>
+</p>
+
 <a href="https://facebook.com/dojicreates" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://instagram.com/dojicreates" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://tiktok.com/@dojicreates" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" /></a>
@@ -471,7 +475,7 @@ graph TD
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 📚 TUTORIAL.CATEGORIES
 
@@ -486,7 +490,7 @@ graph TD
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 📦 RESOURCES.AVAILABLE
 
@@ -531,7 +535,7 @@ applications
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## ⚙️ SYSTEM.STATUS
 
@@ -569,7 +573,7 @@ commitment:         GOD-FEARING • EXCELLENCE-DRIVEN
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🌐 CONNECT.WITH.ME
 
@@ -602,7 +606,7 @@ commitment:         GOD-FEARING • EXCELLENCE-DRIVEN
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## ✨ FINAL.MESSAGE
 
@@ -616,7 +620,7 @@ commitment:         GOD-FEARING • EXCELLENCE-DRIVEN
 
 > ### *"Para sa lahat ng Filipino developers na may pangarap: The future belongs to those who code it, design it, and create it."*
 > 
-> Whether you're a **CS/IT student**, writing your **first line of code**, or **transitioning to tech** this is your space to learn programming **in Tagalog**, grow together, and build the future.
+> Whether you're a **CS/IT student**, writing your **first line of code**, or **transitioning to tech**—this is your space to learn programming **in Tagalog**, grow together, and build the future.
 
 <br>
 
