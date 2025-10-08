@@ -9,9 +9,9 @@
 ╚═════╝  ╚═════╝  ╚════╝ ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=CONTENT+CREATOR;TECH+INFLUENCER;DIGITAL+ARCHITECT;CODE+%7C+AI+%7C+GROWTH" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=CONTENT+CREATOR;TECH+EDUCATOR;FILIPINO+DEV+ADVOCATE;CODE+%7C+AI+%7C+GROWTH" alt="Typing SVG" />
 
-### `⚡ Empowering minds through technology, code, and growth`
+### `⚡ Empowering God-Fearing Filipino Developers Through Technology & Growth`
 
 <a href="https://facebook.com/dojicreates" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://instagram.com/dojicreates" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
@@ -30,8 +30,9 @@
 
 ```javascript
 const dojicreates = {
-  identity: "Digital Creator",
-  mission: "Tech + Growth",
+  identity: "Tech Educator",
+  mission: "Filipino Dev Excellence",
+  language: "Tagalog + English",
   status: "🟢 ONLINE"
 };
 ```
@@ -40,12 +41,12 @@ const dojicreates = {
 <td width="50%">
 
 ```yaml
-focus:
-  - Programming
+core_focus:
+  - Tagalog Coding Tutorials
+  - Programming (C++, Python, JS)
   - AI & Robotics
-  - Self Development
-  - Finance
-  - Productivity
+  - Web Development
+  - CS/IT Education
 ```
 
 </td>
@@ -63,21 +64,21 @@ focus:
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/code.png" width="80" style="pointer-events: none;"/>
 
-### 💻 **TECHNOLOGY**
-`Web Development`  
-`Programming Fundamentals`  
-`AI & Machine Learning`  
-`Robotics & Automation`
+### 💻 **PROGRAMMING**
+`C++ Tutorials`  
+`JavaScript & Web Dev`  
+`Python Programming`  
+`Java & OOP Concepts`
 
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="80" style="pointer-events: none;"/>
 
 ### 🤖 **AI & ROBOTICS**
-`Neural Networks`  
-`Machine Learning`  
+`Machine Learning Basics`  
+`AI Implementation`  
 `Automation Systems`  
-`Intelligent Solutions`
+`Robotics Projects`
 
 </td>
 <td align="center" width="33%">
@@ -87,7 +88,7 @@ focus:
 `Self Development`  
 `Financial Intelligence`  
 `Productivity Systems`  
-`Mindset Engineering`
+`Tech Career Growth`
 
 </td>
 </tr>
@@ -97,46 +98,42 @@ focus:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📡 LATEST.TRANSMISSIONS
+## 🎓 WHO.THIS.IS.FOR
 
 <div align="center">
 
-### 🎥 **Featured Video Content**
-
 <table>
 <tr>
-<td width="50%" align="center">
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/student-male.png" width="70"/>
 
-#### `[V.001]`
-[![Video](https://img.youtube.com/vi/6XJ8294lC0c/mqdefault.jpg)](https://youtu.be/6XJ8294lC0c?si=hnEpeA_CLGzL1gMG)
-<br>
-[![Watch](https://img.shields.io/badge/▶_WATCH_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/6XJ8294lC0c)
-
-</td>
-<td width="50%" align="center">
-
-#### `[V.002]`
-[![Video](https://img.youtube.com/vi/Pyx9oLYpbi4/mqdefault.jpg)](https://youtu.be/Pyx9oLYpbi4?si=Aqr284t4U4DmPUJR)
-<br>
-[![Watch](https://img.shields.io/badge/▶_WATCH_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Pyx9oLYpbi4)
+### **CS/IT Students**
+BSCS • BSIT • BSIS  
+BSCPE • ICT Programs
 
 </td>
-</tr>
-<tr>
-<td width="50%" align="center">
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/coding.png" width="70"/>
 
-#### `[V.003]`
-[![Video](https://img.youtube.com/vi/xZ9umpUHRdU/mqdefault.jpg)](https://youtu.be/xZ9umpUHRdU?si=wOZ9S9jMXe5jHn6l)
-<br>
-[![Watch](https://img.shields.io/badge/▶_WATCH_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/xZ9umpUHRdU)
+### **Beginners**
+Starting your  
+coding journey
 
 </td>
-<td width="50%" align="center">
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/philippines.png" width="70"/>
 
-#### `[V.004]`
-[![Video](https://img.youtube.com/vi/te1eLWfdd0I/mqdefault.jpg)](https://youtu.be/te1eLWfdd0I?si=Tx2pQ-ijfx9BxW5M)
-<br>
-[![Watch](https://img.shields.io/badge/▶_WATCH_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/te1eLWfdd0I)
+### **Filipino Devs**
+Learning in  
+Tagalog
+
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/goal.png" width="70"/>
+
+### **Career Shifters**
+Transitioning to  
+tech careers
 
 </td>
 </tr>
@@ -152,21 +149,25 @@ focus:
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/html-5--v1.png" width="65"/>
 <br><strong>HTML5</strong>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/css3.png" width="65"/>
 <br><strong>CSS3</strong>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" width="65"/>
 <br><strong>JavaScript</strong>
 </td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/git.png" width="65"/>
-<br><strong>Git</strong>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="65"/>
+<br><strong>C++</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/python--v1.png" width="65"/>
+<br><strong>Python</strong>
 </td>
 </tr>
 </table>
@@ -174,6 +175,9 @@ focus:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -186,7 +190,8 @@ focus:
 <div align="center">
 
 ```mermaid
-pie title Content Distribution
+%%{init: {'theme':'dark', 'themeVariables': { 'pieStrokeWidth': '2px', 'pieOuterStrokeWidth': '3px'}}}%%
+pie title Content Focus Areas
     "Programming & Tech" : 40
     "AI & Emerging Tech" : 30
     "Personal Development" : 20
@@ -196,32 +201,32 @@ pie title Content Distribution
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/facebook-new.png" width="60"/>
+<img src="https://img.icons8.com/fluency/96/000000/facebook-new.png" width="60" style="pointer-events: none;"/>
 <br>
 <strong>Facebook</strong>
 <br>
-<sub>Long-form discussions</sub>
+<sub>Coding discussions & community</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="60"/>
+<img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="60" style="pointer-events: none;"/>
 <br>
 <strong>Instagram</strong>
 <br>
-<sub>Visual storytelling</sub>
+<sub>Quick tips & inspiration</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/tiktok.png" width="60"/>
+<img src="https://img.icons8.com/fluency/96/000000/tiktok.png" width="60" style="pointer-events: none;"/>
 <br>
 <strong>TikTok</strong>
 <br>
-<sub>Quick insights</sub>
+<sub>Short coding tutorials</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/youtube-play.png" width="60"/>
+<img src="https://img.icons8.com/fluency/96/000000/youtube-play.png" width="60" style="pointer-events: none;"/>
 <br>
 <strong>YouTube</strong>
 <br>
-<sub>Deep-dive tutorials</sub>
+<sub>Full Tagalog tutorials</sub>
 </td>
 </tr>
 </table>
@@ -238,7 +243,7 @@ pie title Content Distribution
 <tr>
 <td>
 
-> ### *"In a world drowning in information, I create clarity. Through code, I build solutions. Through content, I share knowledge. Through consistency, I inspire action."*
+> ### *"Awakening the greatness of God-fearing Filipino developers through accessible Tagalog programming education. In a world drowning in information, I create clarity. Through code, I build solutions. Through content, I share knowledge. Through consistency, I inspire action."*
 
 <br>
 
@@ -248,31 +253,31 @@ pie title Content Distribution
 <img src="https://img.icons8.com/fluency/48/000000/light.png"/>
 <br><strong>CLARITY</strong>
 <br>
-<sub>Breaking complexity</sub>
+<sub>Tagalog explanations</sub>
 </td>
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/diamond.png"/>
 <br><strong>VALUE</strong>
 <br>
-<sub>Serving the audience</sub>
+<sub>Free quality content</sub>
 </td>
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/infinity.png"/>
 <br><strong>CONSISTENCY</strong>
 <br>
-<sub>Building trust</sub>
+<sub>Regular tutorials</sub>
 </td>
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/innovation.png"/>
 <br><strong>INNOVATION</strong>
 <br>
-<sub>Embracing change</sub>
+<sub>Modern tech education</sub>
 </td>
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/verified-badge.png"/>
-<br><strong>AUTHENTICITY</strong>
+<br><strong>FAITH</strong>
 <br>
-<sub>Real experiences</sub>
+<sub>God-honoring work</sub>
 </td>
 </tr>
 </table>
@@ -295,24 +300,24 @@ pie title Content Distribution
 <img src="https://img.icons8.com/fluency/96/000000/education.png" width="70"/>
 
 ### 📚 **EDUCATE**
-Providing technical knowledge  
-and practical skills
+Tagalog programming tutorials  
+Free for all Filipino learners
 
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png" width="70"/>
 
 ### ⚡ **INSPIRE**
-Showing what's possible  
-through technology
+Showing what's achievable  
+Building Filipino tech excellence
 
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/muscle.png" width="70"/>
 
 ### 💪 **EMPOWER**
-Tools and frameworks  
-for success
+Practical skills & projects  
+Real-world applications
 
 </td>
 </tr>
@@ -329,7 +334,7 @@ for success
 ```mermaid
 graph LR
     A[2024<br/>Foundation] -->|Build| B[2025<br/>Scale]
-    B -->|Expand| C[Future<br/>Leadership]
+    B -->|Expand| C[Future<br/>Impact]
     
     style A fill:#00d4ff,stroke:#00a8cc,stroke-width:3px,color:#000
     style B fill:#00ff88,stroke:#00cc6a,stroke-width:3px,color:#000
@@ -341,10 +346,10 @@ graph LR
 <td align="center" width="33%">
 
 ### 🎯 **2024**
-✅ Foundation Building  
-✅ Platform Establishment  
+✅ Platform Building  
 ✅ Content Consistency  
-✅ Audience Connection
+✅ Community Growth  
+✅ Tagalog Tutorial Library
 
 </td>
 <td align="center" width="33%">
@@ -353,16 +358,16 @@ graph LR
 ⚡ Scale Production  
 ⚡ Community Expansion  
 ⚡ Strategic Partnerships  
-⚡ Revenue Diversification
+⚡ Educational Platform
 
 </td>
 <td align="center" width="33%">
 
 ### 🌟 **FUTURE**
-🔥 Industry Leadership  
+🔥 Filipino Dev Leadership  
 🔥 Product Development  
-🔥 Educational Platform  
-🔥 Global Impact
+🔥 Tech Education Hub  
+🔥 Global Filipino Devs
 
 </td>
 </tr>
@@ -379,19 +384,19 @@ graph LR
 ```mermaid
 graph TD
     START[🎯 START HERE] --> A[📘 BEGINNER]
-    A --> A1[Web Fundamentals]
-    A --> A2[Programming Basics]
-    A --> A3[Intro to AI]
+    A --> A1[HTML/CSS Basics]
+    A --> A2[C++ Fundamentals]
+    A --> A3[Programming Logic]
     
     A --> B[📗 INTERMEDIATE]
-    B --> B1[Advanced JavaScript]
-    B --> B2[Project Building]
-    B --> B3[Productivity Systems]
+    B --> B1[JavaScript Projects]
+    B --> B2[Python Programming]
+    B --> B3[Data Structures]
     
     B --> C[📕 ADVANCED]
-    C --> C1[Full-Stack Dev]
+    C --> C1[Web Development]
     C --> C2[AI/ML Implementation]
-    C --> C3[Business & Monetization]
+    C --> C3[Full-Stack Projects]
     
     style START fill:#ff0080,stroke:#cc0066,stroke-width:3px,color:#fff
     style A fill:#00d4ff,stroke:#00a8cc,stroke-width:2px,color:#000
@@ -403,16 +408,61 @@ graph TD
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📚 POPULAR.TOPICS
+## 📚 TUTORIAL.CATEGORIES
 
 <div align="center">
 
-| 💻 **Programming** | 🤖 **AI/ML** | 📈 **Growth** | 💰 **Finance** | ⚡ **Productivity** |
+| 💻 **Web Dev** | 🔧 **C++** | 🐍 **Python** | ☕ **Java** | 🤖 **AI/ML** |
 |:---:|:---:|:---:|:---:|:---:|
-| Web Dev | Neural Networks | Habits | Investing | Time Management |
-| Algorithms | Automation | Mindset | Budgeting | Tools & Apps |
-| Clean Code | ML Models | Goals | Wealth Building | Workflows |
-| ![](https://img.shields.io/badge/-Tutorials-00d4ff?style=flat-square) | ![](https://img.shields.io/badge/-Demos-00ff88?style=flat-square) | ![](https://img.shields.io/badge/-Strategies-ff00ff?style=flat-square) | ![](https://img.shields.io/badge/-Analysis-ffd700?style=flat-square) | ![](https://img.shields.io/badge/-Reviews-ff0080?style=flat-square) |
+| HTML5 Basics | Syntax & Structure | Getting Started | OOP Concepts | Neural Networks |
+| CSS Styling | Data Structures | File Handling | Inheritance | ML Algorithms |
+| JavaScript | Algorithms | Libraries | Polymorphism | Automation |
+| ![](https://img.shields.io/badge/-Tagalog-00d4ff?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-00ff88?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ff00ff?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ffd700?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ff0080?style=flat-square) |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📦 RESOURCES.AVAILABLE
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/video.png" width="70"/>
+
+### 🎥 **Video Tutorials**
+Full-length Tagalog  
+coding lessons
+
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/pdf.png" width="70"/>
+
+### 📄 **PDF Notes**
+Downloadable study  
+materials & guides
+
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="70"/>
+
+### 💻 **Source Code**
+GitHub repos &  
+project files
+
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/toolbox.png" width="70"/>
+
+### 🛠️ **Dev Tools**
+Utilities & helper  
+applications
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -436,26 +486,27 @@ graph TD
 </td>
 <td align="center">
 
-![Quality](https://img.shields.io/badge/QUALITY-PREMIUM-ffd700?style=for-the-badge&logo=medal&logoColor=white)
+![Quality](https://img.shields.io/badge/QUALITY-FREE-ffd700?style=for-the-badge&logo=medal&logoColor=white)
 
 </td>
 </tr>
 </table>
 
 ```yaml
-operating_mode:     CREATOR • EDUCATOR • STRATEGIST
-update_frequency:   DAILY CONTENT CYCLES
+operating_mode:     EDUCATOR • CONTENT CREATOR • COMMUNITY BUILDER
+language:           TAGALOG + ENGLISH
+update_frequency:   REGULAR TUTORIAL UPLOADS
 platform_status:    MULTI-CHANNEL ACTIVE
-engagement_level:   HIGH-TOUCH COMMUNITY
-content_quality:    PREMIUM STANDARD
-innovation_index:   CUTTING EDGE
+target_audience:    FILIPINO DEVELOPERS
+content_quality:    FREE PREMIUM TUTORIALS
+commitment:         GOD-FEARING • EXCELLENCE-DRIVEN
 ```
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐 CONNECT
+## 🌐 CONNECT.WITH.ME
 
 <div align="center">
 
@@ -463,12 +514,15 @@ innovation_index:   CUTTING EDGE
 <tr>
 <td align="center">
 
-### **Let's Build Together**
+### **Join the Community**
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dojicreates)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dojicreates)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@dojicreates)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@dojicreates)
+
+### 🌐 **Official Website**
+[![Website](https://img.shields.io/badge/DojiCreates.com-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dojicreates.com)
 
 </td>
 </tr>
@@ -476,10 +530,10 @@ innovation_index:   CUTTING EDGE
 
 ### 🎯 **COLLABORATION OPPORTUNITIES**
 
-![Partnership](https://img.shields.io/badge/Brand_Partnerships-Available-00ff88?style=flat-square)
-![Consulting](https://img.shields.io/badge/Technical_Consulting-Open-00d4ff?style=flat-square)
-![Content](https://img.shields.io/badge/Content_Collab-Welcome-ff00ff?style=flat-square)
-![Speaking](https://img.shields.io/badge/Guest_Speaking-Interested-ffd700?style=flat-square)
+![Tutorials](https://img.shields.io/badge/Tutorial_Collaborations-Available-00ff88?style=flat-square)
+![Speaking](https://img.shields.io/badge/Guest_Speaking-Open-00d4ff?style=flat-square)
+![Partnerships](https://img.shields.io/badge/Brand_Partnerships-Welcome-ff00ff?style=flat-square)
+![Community](https://img.shields.io/badge/Community_Events-Interested-ffd700?style=flat-square)
 
 </div>
 
@@ -495,13 +549,13 @@ innovation_index:   CUTTING EDGE
 
 <br>
 
-> ### *"The future belongs to those who code it, design it, and create it."*
+> ### *"Para sa lahat ng Filipino developers na may pangarap: The future belongs to those who code it, design it, and create it."*
 > 
-> Whether you're writing your first line of code, launching your first project, or optimizing your life for peak performance—**this is your space to learn, grow, and transform.**
+> Whether you're a **CS/IT student**, writing your **first line of code**, or **transitioning to tech**—this is your space to learn programming **in Tagalog**, grow together, and build the future.
 
 <br>
 
-### 🚀 **Let's build something remarkable together.**
+### 🚀 **Sama-sama tayong matuto at lumago. Let's code the future together!**
 
 <br>
 
@@ -521,6 +575,6 @@ innovation_index:   CUTTING EDGE
 
 ---
 
-**STATUS: `🟢 ONLINE`** | **LAST UPDATED: `2025`** | **EOF**
+**STATUS: `🟢 ONLINE`** | **UPDATED: `2025`** | **AWAKEN THE GREATNESS** | **EOF**
 
 </div>
