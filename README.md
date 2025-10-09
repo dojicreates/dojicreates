@@ -161,7 +161,7 @@ AI Projects<br><br>
 </tr>
 </table>
 
-###**VIEW ALL TUTORIALS →**](https://youtube.com/@dojicreates)
+### [**VIEW ALL TUTORIALS →**](https://youtube.com/@dojicreates)
 
 <br>
 
