@@ -22,47 +22,76 @@
 
 <br>
 
-
 ## PROJECTS
 
-<table>
-<tr>
-<th width="40%" align="left">Project</th>
-<th width="40%" align="left">Description</th>
-<th width="20%" align="center">Link</th>
-</tr>
+<div style="display:flex; gap:20px; margin-top:10px;">
 
-<tr>
-<td><strong>dojicreates.com</strong></td>
-<td>My personal website and portfolio where I showcase my projects and creative work. This was my first publicly shareable project, highlighting responsive design and interactive features.</td>
-<td align="center"><a href="https://dojicreates.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Site</a></td>
-</tr>
+  <!-- Doji Column -->
+  <div style="flex:1; min-width:150px;">
+    <h3>Doji</h3>
 
-<tr>
-<td><strong>CSS Tools | dojicreates.com</strong></td>
-<td>A collection of practical CSS utilities and generators designed to help developers and learners experiment with styles. This project strengthened my skills in frontend design, animations, and layout techniques.</td>
-<td align="center"><a href="https://dojicreates.com/css-tools" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Site</a></td>
-</tr>
+    <details>
+      <summary><strong>dojicreates.com</strong></summary>
+      <p>Personal website and portfolio showcasing projects and creative work.</p>
+      <a href="https://dojicreates.com/" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24"/> View Site
+      </a>
+    </details>
 
-<tr>
-<td><strong>Unit Converter | dojicreates.com</strong></td>
-<td>An interactive tool that allows users to convert between different units of measurement. This project improved my logic handling, DOM manipulation, and user interface skills.</td>
-<td align="center"><a href="https://dojicreates.com/unit-converter" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Site</a></td>
-</tr>
+    <details>
+      <summary><strong>CSS Tools | dojicreates.com</strong></summary>
+      <p>Collection of CSS utilities and generators for developers and learners.</p>
+      <a href="https://dojicreates.com/css-tools" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24"/> View Site
+      </a>
+    </details>
 
-<tr>
-<td><strong>Typing Test | dojicreates.com</strong></td>
-<td>A web-based typing speed and accuracy test to help users improve their typing skills. This project focused on timing functions, event handling, and real-time performance tracking.</td>
-<td align="center"><a href="https://dojicreates.com/typing-test" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Site</a></td>
-</tr>
+    <details>
+      <summary><strong>Unit Converter | dojicreates.com</strong></summary>
+      <p>Interactive tool for converting between different units of measurement.</p>
+      <a href="https://dojicreates.com/unit-converter" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24"/> View Site
+      </a>
+    </details>
 
-<tr>
-<td><strong>Randomizer | dojicreates.com</strong></td>
-<td>An app that generates random results such as numbers, choices, or lists. This project sharpened my skills in algorithm design, randomness handling, and dynamic UI updates.</td>
-<td align="center"><a href="https://dojicreates.com/randomizer" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Site</a></td>
-</tr>
+    <details>
+      <summary><strong>Typing Test | dojicreates.com</strong></summary>
+      <p>Web-based typing speed and accuracy test to improve typing skills.</p>
+      <a href="https://dojicreates.com/typing-test" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24"/> View Site
+      </a>
+    </details>
 
-</table>
+    <details>
+      <summary><strong>Randomizer | dojicreates.com</strong></summary>
+      <p>App that generates random results such as numbers, choices, or lists.</p>
+      <a href="https://dojicreates.com/randomizer" target="_blank">
+        <img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24"/> View Site
+      </a>
+    </details>
+
+  </div>
+
+  <!-- Beginner Column -->
+  <div style="flex:1; min-width:150px;">
+    <h3>Beginner</h3>
+    <p>No projects yet.</p>
+  </div>
+
+  <!-- Intermediate Column -->
+  <div style="flex:1; min-width:150px;">
+    <h3>Intermediate</h3>
+    <p>No projects yet.</p>
+  </div>
+
+  <!-- Pro Column -->
+  <div style="flex:1; min-width:150px;">
+    <h3>Pro</h3>
+    <p>No projects yet.</p>
+  </div>
+
+</div>
+
 
 
 
