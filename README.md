@@ -286,31 +286,6 @@ A strong body and clear mind lead to sustainable productivity. In tech, mental f
 
 <br><br><br>
 
-### CONTENT.DISTRIBUTION
-
-<br><br><br>
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'pieStrokeWidth': '2px', 'pieOuterStrokeWidth': '3px'}}}%%
-pie title Content Focus Areas
-    "Programming & Tech" : 40
-    "AI & Emerging Tech" : 30
-    "Personal Development" : 20
-    "Finance & Productivity" : 10
-```
-
-<br><br><br>
-
-</div>
-
----
-
----
-
-<div align="center">
-
-<br><br><br>
-
 ### MISSION.STATEMENT
 
 <br><br>
@@ -427,30 +402,21 @@ graph LR
 
 ### **2022**
 
-Platform Building  
- Content Consistency  
- Community Growth  
- Tagalog Tutorial Library
+I started coding.
 
 </td>
 <td align="center" width="33%">
 
-### **2025**
+### **2023**
 
-Scale Production  
- Community Expansion  
- Strategic Partnerships  
- Educational Platform
+I started vlogging.
 
 </td>
 <td align="center" width="33%">
 
-### **FUTURE**
+### **'24-'25**
 
-Filipino Dev Leadership  
- Product Development  
- Tech Education Hub  
- Global Filipino Devs
+Audience Growth.
 
 </td>
 </tr>
@@ -492,6 +458,33 @@ graph TD
 
 ---
 
+---
+
+<div align="center">
+
+<br><br><br>
+
+### CONTENT.DISTRIBUTION
+
+<br><br><br>
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'pieStrokeWidth': '2px', 'pieOuterStrokeWidth': '3px'}}}%%
+pie title Content Focus Areas
+    "Programming & Tech" : 40
+    "AI & Emerging Tech" : 30
+    "Personal Development" : 20
+    "Finance & Productivity" : 10
+```
+
+<br><br><br>
+
+</div>
+
+---
+
+---
+
 <div align="center">
 
 <br><br><br><br>
@@ -516,6 +509,8 @@ graph TD
 ---
 
 <div align="center">
+
+<br><br><br><br>
 
 ### RESOURCES.AVAILABLE
 
