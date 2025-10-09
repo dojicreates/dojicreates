@@ -86,6 +86,82 @@
 
 <div align="center">
 
+---
+
+---
+
+<br><br><br><br>
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': {'fontSize': '16px'}}}%%
+graph TD
+    START[" START HERE"] --> A[" BEGINNER"]
+    A --> A1[HTML/CSS Basics]
+    A --> A2[C++ Fundamentals]
+    A --> A3[Programming Logic]
+
+    A --> B[" INTERMEDIATE"]
+    B --> B1[JavaScript Projects]
+    B --> B2[Python Programming]
+    B --> B3[Data Structures]
+
+    B --> C[" ADVANCED"]
+    C --> C1[Web Development]
+    C --> C2[AI/ML Implementation]
+    C --> C3[Full-Stack Projects]
+
+    style START fill:#ff0080,stroke:#cc0066,stroke-width:3px,color:#fff
+    style A fill:#00d4ff,stroke:#00a8cc,stroke-width:2px,color:#000
+    style B fill:#00ff88,stroke:#00cc6a,stroke-width:2px,color:#000
+    style C fill:#ffd700,stroke:#ccac00,stroke-width:2px,color:#000
+```
+
+</div>
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'pieStrokeWidth': '2px', 'pieOuterStrokeWidth': '3px'}}}%%
+pie title Content Focus Areas
+    "Programming & Tech" : 40
+    "AI & Emerging Tech" : 30
+    "Personal Development" : 20
+    "Finance & Productivity" : 10
+```
+
+<br><br><br>
+
+</div>
+
+---
+
+---
+
+<div align="center">
+
+<br><br><br><br>
+
+### TUTORIAL.CATEGORIES
+
+<br><br>
+
+|                             **Web Dev**                             |                               **C++**                               |                             **Python**                              |                              **Java**                               |                              **AI/ML**                              |
+| :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
+|                            HTML5 Basics                             |                         Syntax & Structure                          |                           Getting Started                           |                            OOP Concepts                             |                           Neural Networks                           |
+|                             CSS Styling                             |                           Data Structures                           |                            File Handling                            |                             Inheritance                             |                            ML Algorithms                            |
+|                             JavaScript                              |                             Algorithms                              |                              Libraries                              |                            Polymorphism                             |                             Automation                              |
+| ![](https://img.shields.io/badge/-Tagalog-00d4ff?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-00ff88?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ff00ff?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ffd700?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ff0080?style=flat-square) |
+
+<br><br><br><br>
+
+</div>
+
+---
+
+---
+
+<div align="center">
+
 <br><br><br>
 
 ### SYSTEM.INITIALIZE()
@@ -338,144 +414,6 @@ A strong body and clear mind lead to sustainable productivity. In tech, mental f
 </table>
 
 </div>
-
----
-
-## CONTENT.PHILOSOPHY
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/education.png" width="70" style="pointer-events: none;"/>
-
-### **EDUCATE**
-
-Tagalog programming tutorials  
-Free for all Filipino learners
-
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png" width="70" style="pointer-events: none;"/>
-
-### **INSPIRE**
-
-Showing what's achievable  
-Building Filipino tech excellence
-
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/muscle.png" width="70" style="pointer-events: none;"/>
-
-### **EMPOWER**
-
-Practical skills & projects  
-Real-world applications
-
-</td>
-</tr>
-</table>
-
-</div>
-
-
-<div align="center">
-
-
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'fontSize': '16px'}}}%%
-graph LR
-    A["2022<br/>Foundation"] -->|Build| B["2025<br/>Scale"]
-    B -->|Expand| C["Future<br/>Impact"]
-
-    style A fill:#00d4ff,stroke:#00a8cc,stroke-width:3px,color:#000
-    style B fill:#00ff88,stroke:#00cc6a,stroke-width:3px,color:#000
-    style C fill:#ff00ff,stroke:#cc00cc,stroke-width:3px,color:#fff
-```
-
-</div>
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'fontSize': '16px'}}}%%
-graph TD
-    START[" START HERE"] --> A[" BEGINNER"]
-    A --> A1[HTML/CSS Basics]
-    A --> A2[C++ Fundamentals]
-    A --> A3[Programming Logic]
-
-    A --> B[" INTERMEDIATE"]
-    B --> B1[JavaScript Projects]
-    B --> B2[Python Programming]
-    B --> B3[Data Structures]
-
-    B --> C[" ADVANCED"]
-    C --> C1[Web Development]
-    C --> C2[AI/ML Implementation]
-    C --> C3[Full-Stack Projects]
-
-    style START fill:#ff0080,stroke:#cc0066,stroke-width:3px,color:#fff
-    style A fill:#00d4ff,stroke:#00a8cc,stroke-width:2px,color:#000
-    style B fill:#00ff88,stroke:#00cc6a,stroke-width:2px,color:#000
-    style C fill:#ffd700,stroke:#ccac00,stroke-width:2px,color:#000
-```
-
-</div>
-
----
-
----
-
-<div align="center">
-
-<br><br><br>
-
-### CONTENT.DISTRIBUTION
-
-<br><br><br>
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'pieStrokeWidth': '2px', 'pieOuterStrokeWidth': '3px'}}}%%
-pie title Content Focus Areas
-    "Programming & Tech" : 40
-    "AI & Emerging Tech" : 30
-    "Personal Development" : 20
-    "Finance & Productivity" : 10
-```
-
-<br><br><br>
-
-</div>
-
----
-
----
-
-<div align="center">
-
-<br><br><br><br>
-
-### TUTORIAL.CATEGORIES
-
-<br><br>
-
-|                             **Web Dev**                             |                               **C++**                               |                             **Python**                              |                              **Java**                               |                              **AI/ML**                              |
-| :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
-|                            HTML5 Basics                             |                         Syntax & Structure                          |                           Getting Started                           |                            OOP Concepts                             |                           Neural Networks                           |
-|                             CSS Styling                             |                           Data Structures                           |                            File Handling                            |                             Inheritance                             |                            ML Algorithms                            |
-|                             JavaScript                              |                             Algorithms                              |                              Libraries                              |                            Polymorphism                             |                             Automation                              |
-| ![](https://img.shields.io/badge/-Tagalog-00d4ff?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-00ff88?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ff00ff?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ffd700?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ff0080?style=flat-square) |
-
-<br><br><br><br>
-
-</div>
-
----
-
----
 
 <div align="center">
 
