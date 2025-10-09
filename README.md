@@ -19,9 +19,39 @@
 
 > # _"... Ang Panginoon ay nagbibigay ng karunungan, sa kaniyang bibig nanggagaling ang kaalaman at kaunawaan."_
 > 
-> ##a lahat ng mabuting bagay na ating matututunan, ang lagi nating pasasalamat ay sa Dios lamang.
+> ## Sa lahat ng mabuting bagay na ating matututunan, ang lagi nating pasasalamat ay sa Dios lamang.
 
 <br>
+
+
+## PROJECTS
+
+<table>
+<tr>
+<th width="40%" align="left">Project</th>
+<th width="40%" align="left">Description</th>
+<th width="20%" align="center">Link</th>
+</tr>
+<tr>
+<td><strong>Example Project 1</strong></td>
+<td>A brief description of your first project. Add more details here about what it does and the technologies used.</td>
+<td align="center"><a href="https://github.com/yourusername/project1" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Repo</a></td>
+</tr>
+<tr>
+<td><strong>Example Project 2</strong></td>
+<td>A brief description of your second project. Feel free to expand on features, challenges overcome, or learning outcomes.</td>
+<td align="center"><a href="https://github.com/yourusername/project2" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Repo</a></td>
+</tr>
+<tr>
+<td><strong>Example Project 3</strong></td>
+<td>A brief description of your third project. This is a placeholder—replace with your actual GitHub repos.</td>
+<td align="center"><a href="https://github.com/yourusername/project3" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Repo</a></td>
+</tr>
+<!-- Add more rows as needed for your projects -->
+</table>
+
+
+
 
 ## CORE VALUES
 
