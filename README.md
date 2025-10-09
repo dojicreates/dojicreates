@@ -185,6 +185,8 @@ const stay_ConsistentlyCurious = {
 
 <div align="center">
 
+<br><br>
+
 
 ### MISSION
 
@@ -237,6 +239,8 @@ const stay_ConsistentlyCurious = {
 </tr>
 </table>
 
+<br><br>
+
 
 ### CORE.MODULES
 
@@ -279,6 +283,8 @@ A strong body and clear mind lead to sustainable productivity. In tech, mental f
 </td>
 </tr>
 </table>
+
+<br><br>
 
 
 
@@ -323,6 +329,7 @@ applications
 </table>
 
 
+<br><br>
 
 
 
@@ -362,7 +369,7 @@ Real-world applications
 </table>
 
 
-
+<br><br>
 
 ### TECH STACK & MY OTHER INTEREST
 
