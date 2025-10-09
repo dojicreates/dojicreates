@@ -212,7 +212,7 @@ graph TD
 
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': { 'pieStrokeWidth': '2px', 'pieOuterStrokeWidth': '3px'}}}%%
-pie title Content Distribution
+pie title 
     "Programming & Tech" : 40
     "AI & Emerging Tech" : 30
     "Personal Development" : 20
