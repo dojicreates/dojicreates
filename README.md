@@ -185,17 +185,8 @@ const stay_ConsistentlyCurious = {
 
 <div align="center">
 
-<br><br><br>
 
-
-
-
-
-
-
-
-
-### MISSION.STATEMENT
+### MISSION
 
 <br><br>
 
@@ -462,7 +453,7 @@ applications
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/education.png" width="70" style="pointer-events: none;"/>
+<img src="https://img.icons8.com/fluency/96/000000/open-book.png" width="70" style="pointer-events: none;"/>
 
 ### **EDUCATE**
 
@@ -480,7 +471,7 @@ Building Filipino tech excellence
 
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/muscle.png" width="70" style="pointer-events: none;"/>
+<img src="https://img.icons8.com/fluency/96/000000/handshake.png" width="70" style="pointer-events: none;"/>
 
 ### **EMPOWER**
 
@@ -490,6 +481,7 @@ Real-world applications
 </td>
 </tr>
 </table>
+
 
 </div>
 
