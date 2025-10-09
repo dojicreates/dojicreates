@@ -50,7 +50,7 @@
 <!-- Add more rows as needed for your projects -->
 </table>
 
-<br><br><br>
+
 
 
 ## CORE VALUES
@@ -94,6 +94,7 @@
 </td>
 </tr>
 </table>
+
 
 <br>
 
