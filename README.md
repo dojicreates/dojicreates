@@ -518,10 +518,6 @@ graph TD
 
 </div>
 
----
----
-<br><br><br><br>
-
 
 <div align="center">
 
@@ -534,25 +530,22 @@ graph TD
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/video.png" width="70" style="pointer-events: none;"/>
 
-### **Video Tutorials**
-Full-length Tagalog  
-coding lessons
+### **Tutorials**
+Full-length Tagalog coding lessons
 
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/pdf.png" width="70" style="pointer-events: none;"/>
 
 ### **PDF Notes**
-Downloadable study  
-materials & guides
+Downloadable study materials & guides
 
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="70" style="pointer-events: none;"/>
 
 ### **Source Code**
-GitHub repos &  
-project files
+GitHub repos & project files
 
 </td>
 <td align="center" width="25%">
