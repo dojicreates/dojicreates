@@ -238,15 +238,6 @@ const stay_ConsistentlyCurious = {
 </table>
 
 
-
-
-
-
-
-
-
-
-
 ### CORE.MODULES
 
 <table>
@@ -335,6 +326,41 @@ applications
 
 
 
+### CONTENT.PHILOSOPHY
+
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/open-book.png" width="70" style="pointer-events: none;"/>
+
+### **EDUCATE**
+
+Tagalog programming tutorials  
+Free for all Filipino learners
+
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png" width="70" style="pointer-events: none;"/>
+
+### **INSPIRE**
+
+Showing what's achievable  
+Building Filipino tech excellence
+
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/handshake.png" width="70" style="pointer-events: none;"/>
+
+### **EMPOWER**
+
+Practical skills & projects  
+Real-world applications
+
+</td>
+</tr>
+</table>
+
 
 
 
@@ -382,7 +408,6 @@ applications
 ### ⚙️ TECH.STACK
 
 <br><br><br>
-
 <table>
 <tr>
 <td align="center" width="20%">
@@ -413,7 +438,7 @@ applications
 <img src="https://img.icons8.com/color/96/000000/flutter.png" width="65" style="pointer-events: none;"/><br><strong>Flutter</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/c-programming.png" width="65" style="pointer-events: none;"/><br><strong>C Language</strong>
+<img src="https://img.icons8.com/color/96/000000/c-programming.png" width="65" style="pointer-events: none;"/><br><strong>C</strong>
 </td>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="65" style="pointer-events: none;"/><br><strong>C++</strong>
@@ -437,7 +462,44 @@ applications
 <img src="https://img.icons8.com/color/96/000000/github--v1.png" width="65" style="pointer-events: none;"/><br><strong>GitHub</strong>
 </td>
 </tr>
+
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/figma--v1.png" width="65" style="pointer-events: none;"/><br><strong>Figma</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/android-studio--v1.png" width="65" style="pointer-events: none;"/><br><strong>Android Studio</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/adobe-premiere-pro--v1.png" width="65" style="pointer-events: none;"/><br><strong>Premiere Pro</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/capcut.png" width="65" style="pointer-events: none;"/><br><strong>CapCut</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/adobe-after-effects--v1.png" width="65" style="pointer-events: none;"/><br><strong>After Effects</strong>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/camera--v1.png" width="65" style="pointer-events: none;"/><br><strong>Photography</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/musical-notes.png" width="65" style="pointer-events: none;"/><br><strong>Music</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/paint-palette.png" width="65" style="pointer-events: none;"/><br><strong>Arts</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/video-editing.png" width="65" style="pointer-events: none;"/><br><strong>Video Editing</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/film-reel.png" width="65" style="pointer-events: none;"/><br><strong>Content Creation</strong>
+</td>
+</tr>
 </table>
+
 
 <br><br><br>
 
@@ -445,45 +507,6 @@ applications
 
 ---
 
-
-## CONTENT.PHILOSOPHY
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/open-book.png" width="70" style="pointer-events: none;"/>
-
-### **EDUCATE**
-
-Tagalog programming tutorials  
-Free for all Filipino learners
-
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png" width="70" style="pointer-events: none;"/>
-
-### **INSPIRE**
-
-Showing what's achievable  
-Building Filipino tech excellence
-
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/handshake.png" width="70" style="pointer-events: none;"/>
-
-### **EMPOWER**
-
-Practical skills & projects  
-Real-world applications
-
-</td>
-</tr>
-</table>
-
-
-</div>
 
 
 <div align="center">
