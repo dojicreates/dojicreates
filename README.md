@@ -17,9 +17,9 @@
 
 ## ALWAYS REMEMBER
 
-# _"... Ang Panginoon ay nagbibigay ng karunungan, sa kaniyang bibig nanggagaling ang kaalaman at kaunawaan."_
-
-## Sa lahat ng mabuting bagay na ating matututunan, ang lagi nating pasasalamat ay sa Dios lamang.
+> # _"... Ang Panginoon ay nagbibigay ng karunungan, sa kaniyang bibig nanggagaling ang kaalaman at kaunawaan."_
+> 
+> ## Sa lahat ng mabuting bagay na ating matututunan, ang lagi nating pasasalamat ay sa Dios lamang.
 
 <br>
 
@@ -32,23 +32,39 @@
 <th width="40%" align="left">Description</th>
 <th width="20%" align="center">Link</th>
 </tr>
+
 <tr>
-<td><strong>Example Project 1</strong></td>
-<td>A brief description of your first project. Add more details here about what it does and the technologies used.</td>
-<td align="center"><a href="https://github.com/yourusername/project1" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Repo</a></td>
+<td><strong>dojicreates.com</strong></td>
+<td>My personal website and portfolio where I showcase my projects and creative work. This was my first publicly shareable project, highlighting responsive design and interactive features.</td>
+<td align="center"><a href="https://dojicreates.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Site</a></td>
 </tr>
+
 <tr>
-<td><strong>Example Project 2</strong></td>
-<td>A brief description of your second project. Feel free to expand on features, challenges overcome, or learning outcomes.</td>
-<td align="center"><a href="https://github.com/yourusername/project2" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Repo</a></td>
+<td><strong>CSS Tools | dojicreates.com</strong></td>
+<td>A collection of practical CSS utilities and generators designed to help developers and learners experiment with styles. This project strengthened my skills in frontend design, animations, and layout techniques.</td>
+<td align="center"><a href="https://dojicreates.com/css-tools" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Site</a></td>
 </tr>
+
 <tr>
-<td><strong>Example Project 3</strong></td>
-<td>A brief description of your third project. This is a placeholder—replace with your actual GitHub repos.</td>
-<td align="center"><a href="https://github.com/yourusername/project3" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Repo</a></td>
+<td><strong>Unit Converter | dojicreates.com</strong></td>
+<td>An interactive tool that allows users to convert between different units of measurement. This project improved my logic handling, DOM manipulation, and user interface skills.</td>
+<td align="center"><a href="https://dojicreates.com/unit-converter" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Site</a></td>
 </tr>
-<!-- Add more rows as needed for your projects -->
+
+<tr>
+<td><strong>Typing Test | dojicreates.com</strong></td>
+<td>A web-based typing speed and accuracy test to help users improve their typing skills. This project focused on timing functions, event handling, and real-time performance tracking.</td>
+<td align="center"><a href="https://dojicreates.com/typing-test" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Site</a></td>
+</tr>
+
+<tr>
+<td><strong>Randomizer | dojicreates.com</strong></td>
+<td>An app that generates random results such as numbers, choices, or lists. This project sharpened my skills in algorithm design, randomness handling, and dynamic UI updates.</td>
+<td align="center"><a href="https://dojicreates.com/randomizer" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Site</a></td>
+</tr>
+
 </table>
+
 
 <br><br><br>
 
