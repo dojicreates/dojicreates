@@ -364,50 +364,8 @@ Real-world applications
 
 
 
+### TECH STACK & MY OTHER INTEREST
 
-
-
-
-
-<br><br><br>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
----
-
-<div align="center">
-
-<br><br><br>
-
-### ⚙️ TECH.STACK
-
-<br><br><br>
 <table>
 <tr>
 <td align="center" width="20%">
@@ -501,9 +459,38 @@ Real-world applications
 </table>
 
 
+
+
+
+
+
+
 <br><br><br>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
