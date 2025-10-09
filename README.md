@@ -15,11 +15,11 @@
 
 <br>
 
-## 💫 MISSION STATEMENT
+## ALWAYS REMEMBER
 
-> _"Awakening the greatness of God-fearing Filipino developers through accessible Tagalog programming education."_
+> # _"... Ang Panginoon ay nagbibigay ng karunungan, sa kaniyang bibig nanggagaling ang kaalaman at kaunawaan."_
 > 
-> _In a world drowning in information, I create clarity. Through code, I build solutions. Through content, I share knowledge. Through consistency, I inspire action._
+> ## Sa lahat ng mabuting bagay na ating matututunan, ang lagi nating pasasalamat ay sa Dios lamang.
 
 <br>
 
