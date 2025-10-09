@@ -78,17 +78,7 @@
 
 ### [**VIEW ALL TUTORIALS →**](https://youtube.com/@dojicreates)
 
-<p align="center">
-  <a href="https://youtube.com/playlist?list=PLcy9FxoGhuPl7VRkazHfX685S-MwjCXH8&si=RiY5dG-xVFZyckNL">
-    <img src="https://i.ytimg.com/an_webp/l8b7_juw6Yg/mqdefault_6s.webp?du=3000&sqp=CJCfm8cG&rs=AOn4CLBYFdOFpgx4bAeJY9X1T9LiE3PB5w" alt="C# Playlist" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 0 15px;"/>
-  </a>
-  <a href="https://youtube.com/playlist?list=PLcy9FxoGhuPnvw-dEn7_PdYizi4wOGkOz&si=5Latzl_fQnHy8Qn1">
-    <img src="https://i.ytimg.com/an_webp/HgN93z79hHo/mqdefault_6s.webp?du=3000&sqp=COCwm8cG&rs=AOn4CLAKa35ydfeQ73IBOZlMOlCvAUd6BQ" alt="C Playlist" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 0 15px;"/>
-  </a>
-  <a href="https://youtube.com/playlist?list=PLcy9FxoGhuPlPj7GzYYH7xh69ZqbrrE_f&si=m2XFyp1hoe98Z6dO">
-    <img src="https://i.ytimg.com/an_webp/71VNb8LzciE/mqdefault_6s.webp?du=3000&sqp=CK-gm8cG&rs=AOn4CLBDZnwlIDtXelykf4SLmGPlegwm-A" alt="Web Dev Playlist" width="250" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 0 15px;"/>
-  </a>
-</p>
+
 
 <br><br><br>
 
@@ -313,38 +303,7 @@ pie title Content Focus Areas
     "Finance & Productivity" : 10
 ```
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/facebook-new.png" width="60" style="pointer-events: none;"/>
-<br>
-<strong>Facebook</strong>
-<br>
-<sub>Coding discussions & community</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="60" style="pointer-events: none;"/>
-<br>
-<strong>Instagram</strong>
-<br>
-<sub>Quick tips & inspiration</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/tiktok.png" width="60" style="pointer-events: none;"/>
-<br>
-<strong>TikTok</strong>
-<br>
-<sub>Short coding tutorials</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/youtube-play.png" width="60" style="pointer-events: none;"/>
-<br>
-<strong>YouTube</strong>
-<br>
-<sub>Full Tagalog tutorials</sub>
-</td>
-</tr>
-</table>
+
 
 <br><br><br>
 
@@ -461,7 +420,7 @@ Real-world applications
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'fontSize': '16px'}}}%%
 graph LR
-    A["2024<br/>Foundation"] -->|Build| B["2025<br/>Scale"]
+    A["2022<br/>Foundation"] -->|Build| B["2025<br/>Scale"]
     B -->|Expand| C["Future<br/>Impact"]
     
     style A fill:#00d4ff,stroke:#00a8cc,stroke-width:3px,color:#000
@@ -473,7 +432,7 @@ graph LR
 <tr>
 <td align="center" width="33%">
 
-###  **2024**
+###  **2022**
  Platform Building  
  Content Consistency  
  Community Growth  
@@ -619,51 +578,6 @@ applications
 <br><br><br><br>
 
 
-
-<div align="center">
-
-### SYSTEM.STATUS
-
-<br><br>
-
-
-
-<table>
-
-<tr>
-<td align="center">
-
-
-
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=statuspage&logoColor=white)
-
-</td>
-<td align="center">
-
-![Mode](https://img.shields.io/badge/MODE-CREATING-00d4ff?style=for-the-badge&logo=lightning&logoColor=white)
-
-</td>
-<td align="center">
-
-![Quality](https://img.shields.io/badge/QUALITY-FREE-ffd700?style=for-the-badge&logo=medal&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-```yaml
-operating_mode:     INFLUENCER • CONTENT CREATOR • COMMUNITY BUILDER
-language:           TAGALOG + ENGLISH
-update_frequency:   REGULAR TUTORIAL UPLOADS
-platform_status:    MULTI-CHANNEL ACTIVE
-target_audience:    FILIPINO DEVELOPERS
-content_quality:    FREE PREMIUM TUTORIALS
-commitment:         GOD-FEARING • EXCELLENCE-DRIVEN
-```
-
-<br><br><br>
-
-</div>
 
 ---
 ---
