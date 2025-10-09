@@ -58,35 +58,45 @@
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/48/000000/light.png" width="60" style="pointer-events: none;"/>
+<span style="pointer-events: none; display:inline-block;">
+<img src="https://img.icons8.com/fluency/48/000000/light.png" width="60"/>
+</span>
 <br><br>
 <strong>CLARITY</strong>
 <br>
 <sub>Tagalog explanations<br>for better understanding</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/48/000000/diamond.png" width="60" style="pointer-events: none;"/>
+<span style="pointer-events: none; display:inline-block;">
+<img src="https://img.icons8.com/fluency/48/000000/diamond.png" width="60"/>
+</span>
 <br><br>
 <strong>VALUE</strong>
 <br>
 <sub>Free quality content<br>for everyone</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/48/000000/infinity.png" width="60" style="pointer-events: none;"/>
+<span style="pointer-events: none; display:inline-block;">
+<img src="https://img.icons8.com/fluency/48/000000/infinity.png" width="60"/>
+</span>
 <br><br>
 <strong>CONSISTENCY</strong>
 <br>
 <sub>Regular tutorials<br>and updates</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/48/000000/innovation.png" width="60" style="pointer-events: none;"/>
+<span style="pointer-events: none; display:inline-block;">
+<img src="https://img.icons8.com/fluency/48/000000/innovation.png" width="60"/>
+</span>
 <br><br>
 <strong>INNOVATION</strong>
 <br>
 <sub>Modern tech<br>education</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/48/000000/verified-badge.png" width="60" style="pointer-events: none;"/>
+<span style="pointer-events: none; display:inline-block;">
+<img src="https://img.icons8.com/fluency/48/000000/verified-badge.png" width="60"/>
+</span>
 <br><br>
 <strong>FAITH</strong>
 <br>
