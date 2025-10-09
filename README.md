@@ -379,11 +379,10 @@ Real-world applications
 
 </div>
 
----
 
 <div align="center">
 
-### GROWTH.TRAJECTORY
+
 
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'fontSize': '16px'}}}%%
@@ -396,37 +395,7 @@ graph LR
     style C fill:#ff00ff,stroke:#cc00cc,stroke-width:3px,color:#fff
 ```
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### **2022**
-
-I started coding.
-
-</td>
-<td align="center" width="33%">
-
-### **2023**
-
-I started vlogging.
-
-</td>
-<td align="center" width="33%">
-
-### **'24-'25**
-
-Audience Growth.
-
-</td>
-</tr>
-</table>
-
 </div>
-
----
-
-## LEARNING.PATH
 
 <div align="center">
 
