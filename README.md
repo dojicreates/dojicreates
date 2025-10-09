@@ -9,7 +9,6 @@
 ╚═════╝  ╚═════╝  ╚════╝ ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
 ```
 
-**Empowering God-Fearing Filipino Developers Through Technology & Growth**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=5000&pause=2000&color=00D9FF&center=true&vCenter=true&width=800&lines=TO+ALL+BSIT+%7C+BCSC+%7C+BSIS+%7C+ICT+%7C+BSCPE+%7C+SELF-LEARNERS+%7C+AND+BEGINNERS;THIS+GITHUB+ACCOUNT+CAN+HELP+YOU+START+UP+YOUR+LEARNING+JOURNEY+TO+TECH;YOU+CAN+DOWNLOAD+AND+USE+MY+PROJECTS+AS+YOU+WATCH+MY+TUTORIALS+%7C+LEARN+BY+DOING;SALAMAT+PO+PALAGI+SA+DIOS+SA+BAWAT+PAGAKAKATAON+AT+SA+LAHAT+NG+MGA+BAGAY+!!;" alt="Typing SVG" />
 
@@ -17,9 +16,9 @@
 
 ## ALWAYS REMEMBER
 
-> # _"... Ang Panginoon ay nagbibigay ng karunungan, sa kaniyang bibig nanggagaling ang kaalaman at kaunawaan."_
-> 
-> ## Sa lahat ng mabuting bagay na ating matututunan, ang lagi nating pasasalamat ay sa Dios lamang.
+# _"Ang Panginoon ay nagbibigay ng karunungan, sa kaniyang bibig nanggagaling ang kaalaman at kaunawaan."_
+
+## Sa lahat ng mabuting bagay na ating matututunan, ang lagi nating pasasalamat ay sa Dios lamang.
 
 <br>
 
@@ -620,11 +619,6 @@ const stay_ConsistentlyCurious = {
 
 <br>
 
-## ALWAYS REMEMBER
-
-> _"... Ang Panginoon ay nagbibigay ng karunungan, sa kaniyang bibig nanggagaling ang kaalaman at kaunawaan."_
-> 
-> Sa lahat ng mabuting bagay na ating matututunan, ang lagi nating pasasalamat ay sa Dios lamang.
 
 <br>
 
@@ -632,6 +626,6 @@ const stay_ConsistentlyCurious = {
 
 **STATUS: `ONLINE`** | **UPDATED: `2025`** | **AWAKEN THE GREATNESS**
 
-💻 Building with purpose | 🎓 Teaching with passion | ✨ Growing with faith
+Building with purpose | Teaching with passion | Growing with faith
 
 </div>
