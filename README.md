@@ -13,6 +13,45 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=5000&pause=2000&color=00D9FF&center=true&vCenter=true&width=800&lines=TO+ALL+BSIT+%7C+BCSC+%7C+BSIS+%7C+ICT+%7C+BSCPE+%7C+SELF-LEARNERS+%7C+AND+BEGINNERS;THIS+GITHUB+ACCOUNT+CAN+HELP+YOU+START+UP+YOUR+LEARNING+JOURNEY+TO+TECH;YOU+CAN+DOWNLOAD+AND+USE+MY+PROJECTS+AS+YOU+WATCH+MY+TUTORIALS+%7C+LEARN+BY+DOING;SUPPORT+OUR+EFFORT+BY+GIVING+US+A+FOLLOW+OR+AVAILING+ANY+OF+OUR+PDF+PRODUCTS;MERON+DIN+PO+TAYONG+GROUP+SA+FB+NASA+PINAKA+BABA+PO+ANG+LINK;SALAMAT+PO+PALAGI+SA+DIOS+SA+BAWAT+PAGAKAKATAON+AT+SA+LAHAT+NG+MGA+BAGAY+!!;" alt="Typing SVG" />
 
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+<br><br><br><br>
+
+### TUTORIAL.CATEGORIES
+
+<br>
+
+|                             **Web Dev**                             |                               **C/C++**                             |                             **Python**                              |                              **Java**                               |                              **AI/ML**                              |
+| :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
+|                            HTML5 Basics                             |                         Syntax & Structure                          |                           Getting Started                           |                            OOP Concepts                             |                           Neural Networks                           |
+|                             CSS Styling                             |                           Data Structures                           |                            File Handling                            |                             Inheritance                             |                            ML Algorithms                            |
+|                             JavaScript                              |                             Algorithms                              |                              Libraries                              |                            Polymorphism                             |                             Automation                              |
+|                           React & Tailwind                          |                         Memory Management                            |                             Projects                                |                            Java Projects                             |                           AI Projects                                |
+| ![](https://img.shields.io/badge/-Tagalog-00d4ff?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-00ff88?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ff00ff?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ffd700?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ff0080?style=flat-square) |
+
+<br><br><br><br>
+
+</div>
+
+
+
+
+
+
+
+
 <div align="center">
 
 ---
@@ -84,75 +123,6 @@
 
 ---
 
-<div align="center">
-
-<br><br><br>
-
-### SYSTEM.INITIALIZE()
-
-<br><br>
-
-<table>
-<tr>
-<td width="20%">
-
-```javascript
-const logic_NotLanguage = {
-  foundation:
-    "Wag ka munang magmadali matuto ng maraming programming languages, unahin mo muna ang pag-master ng problem-solving.",
-
-  mindset:
-    "Kapag naintindihan mo na kung paano mag-isip tulad ng isang programmer, madali na lang magpalit ng kahit anong language.",
-
-  practice:
-    "Mag-practice muna ng pseudocode, algorithms, at flowcharts bago ka lumalim sa syntax.",
-};
-```
-
-</td>
-<td width="20%">
-
-```javascript
-const build_SmallRealProjects = {
-  action:
-    "Huwag kang puro aral lang sa theory, mas matibay ang learning kapag ikaw mismo ang gumagawa at nag-e-experiment.",
-
-  projects:
-    "Simulan mo sa maliliit pero useful na projects tulad ng calculator, to-do list, o converter para masanay ka sa logic at flow.",
-
-  growth:
-    "Bawat project na matatapos mo ay unti-unting magpapatibay sa skills mo at magbibigay ng confidence bilang developer/programmer.",
-};
-```
-
-</td>
-
-<td width="20%">
-
-```javascript
-const stay_ConsistentlyCurious = {
-  consistency:
-    "Mag-code kahit kaunti araw-araw, dahil sa programming mas mahalaga ang consistency kaysa sa bilis.",
-
-  curiosity:
-    "Wag matakot magtanong o mag-search sa Google, kasama talaga sa pagiging developer ang pagre-research at pagde-debug.",
-
-  growth:
-    "Sundan ang mga tech trends tulad ng AI, web dev tools, at open-source projects para manatiling updated at lumago sa career mo.",
-};
-```
-
-</td>
-</tr>
-</table>
-
-<br><br><br>
-
----
-
----
-
-</div>
 
 
 
@@ -622,6 +592,75 @@ pie title Content Focus Areas
 
 
 
+<div align="center">
+
+<br><br><br>
+
+### SYSTEM.INITIALIZE()
+
+<br><br>
+
+<table>
+<tr>
+<td width="20%">
+
+```javascript
+const logic_NotLanguage = {
+  foundation:
+    "Wag ka munang magmadali matuto ng maraming programming languages, unahin mo muna ang pag-master ng problem-solving.",
+
+  mindset:
+    "Kapag naintindihan mo na kung paano mag-isip tulad ng isang programmer, madali na lang magpalit ng kahit anong language.",
+
+  practice:
+    "Mag-practice muna ng pseudocode, algorithms, at flowcharts bago ka lumalim sa syntax.",
+};
+```
+
+</td>
+<td width="20%">
+
+```javascript
+const build_SmallRealProjects = {
+  action:
+    "Huwag kang puro aral lang sa theory, mas matibay ang learning kapag ikaw mismo ang gumagawa at nag-e-experiment.",
+
+  projects:
+    "Simulan mo sa maliliit pero useful na projects tulad ng calculator, to-do list, o converter para masanay ka sa logic at flow.",
+
+  growth:
+    "Bawat project na matatapos mo ay unti-unting magpapatibay sa skills mo at magbibigay ng confidence bilang developer/programmer.",
+};
+```
+
+</td>
+
+<td width="20%">
+
+```javascript
+const stay_ConsistentlyCurious = {
+  consistency:
+    "Mag-code kahit kaunti araw-araw, dahil sa programming mas mahalaga ang consistency kaysa sa bilis.",
+
+  curiosity:
+    "Wag matakot magtanong o mag-search sa Google, kasama talaga sa pagiging developer ang pagre-research at pagde-debug.",
+
+  growth:
+    "Sundan ang mga tech trends tulad ng AI, web dev tools, at open-source projects para manatiling updated at lumago sa career mo.",
+};
+```
+
+</td>
+</tr>
+</table>
+
+<br><br><br>
+
+---
+
+---
+
+</div>
 
 
 
