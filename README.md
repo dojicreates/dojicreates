@@ -15,15 +15,15 @@
 
 <br>
 
-## ALWAYS REMEMBER
+##LWAYS REMEMBER
 
 > # _"... Ang Panginoon ay nagbibigay ng karunungan, sa kaniyang bibig nanggagaling ang kaalaman at kaunawaan."_
 > 
-> ## Sa lahat ng mabuting bagay na ating matututunan, ang lagi nating pasasalamat ay sa Dios lamang.
+> ##a lahat ng mabuting bagay na ating matututunan, ang lagi nating pasasalamat ay sa Dios lamang.
 
 <br>
 
-## 🎯 CORE VALUES
+##ORE VALUES
 
 <table>
 <tr>
@@ -67,7 +67,7 @@
 
 <br>
 
-## 📚 TUTORIAL CATEGORIES
+##UTORIAL CATEGORIES
 
 <table>
 <tr>
@@ -116,7 +116,7 @@ AI Projects<br><br>
 
 <br>
 
-## 🎥 FEATURED TUTORIALS
+##EATURED TUTORIALS
 
 <table>
 <tr>
@@ -161,11 +161,11 @@ AI Projects<br><br>
 </tr>
 </table>
 
-### [**VIEW ALL TUTORIALS →**](https://youtube.com/@dojicreates)
+###**VIEW ALL TUTORIALS →**](https://youtube.com/@dojicreates)
 
 <br>
 
-## 📈 LEARNING TRAJECTORY
+##EARNING TRAJECTORY
 
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'fontSize': '16px'}}}%%
@@ -180,7 +180,7 @@ graph LR
 
 <br>
 
-## 🗺️ LEARNING PATH
+##EARNING PATH
 
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'fontSize': '16px'}}}%%
@@ -208,7 +208,7 @@ graph TD
 
 <br>
 
-## 📊 CONTENT FOCUS AREAS
+## CONTENT FOCUS AREAS
 
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': { 'pieStrokeWidth': '2px', 'pieOuterStrokeWidth': '3px'}}}%%
@@ -221,7 +221,7 @@ pie title Content Distribution
 
 <br>
 
-## 📚 CORE MODULES
+## CORE MODULES
 
 <table>
 <tr>
@@ -258,7 +258,7 @@ A strong body and clear mind lead to sustainable productivity. Mental focus is y
 
 <br>
 
-## 🎁 RESOURCES AVAILABLE
+## RESOURCES AVAILABLE
 
 <table>
 <tr>
@@ -295,7 +295,7 @@ Utilities and helper applications for productivity
 
 <br>
 
-## 💡 CONTENT PHILOSOPHY
+## CONTENT PHILOSOPHY
 
 <table>
 <tr>
@@ -325,7 +325,7 @@ Practical skills and projects with real-world applications
 
 <br>
 
-## 🛠️ TECHNOLOGY STACK
+## TECHNOLOGY STACK
 
 **Frontend Development**
 
@@ -430,7 +430,7 @@ Practical skills and projects with real-world applications
 
 <br>
 
-## 🎨 CREATIVE & OTHER INTERESTS
+## CREATIVE & OTHER INTERESTS
 
 **Content Creation & Multimedia**
 
@@ -498,7 +498,7 @@ Practical skills and projects with real-world applications
 
 <br>
 
-## 💭 DEVELOPER MINDSET
+## DEVELOPER MINDSET
 
 <table>
 <tr>
@@ -546,7 +546,7 @@ const stay_ConsistentlyCurious = {
 
 <br>
 
-## 🌐 CONNECT WITH ME
+## CONNECT WITH ME
 
 <table>
 <tr>
@@ -564,7 +564,7 @@ const stay_ConsistentlyCurious = {
 
 <br>
 
-## 🤝 COLLABORATION OPPORTUNITIES
+## COLLABORATION OPPORTUNITIES
 
 ![Tutorials](https://img.shields.io/badge/Tutorial_Collaborations-ffffff?style=flat-square)
 ![Speaking](https://img.shields.io/badge/Guest_Speaking-ffffff?style=flat-square)
@@ -573,7 +573,7 @@ const stay_ConsistentlyCurious = {
 
 <br>
 
-## ✨ ALWAYS REMEMBER
+## ALWAYS REMEMBER
 
 > _"... Ang Panginoon ay nagbibigay ng karunungan, sa kaniyang bibig nanggagaling ang kaalaman at kaunawaan."_
 > 
