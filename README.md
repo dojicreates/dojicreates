@@ -8,6 +8,7 @@
 ██████╔╝╚██████╔╝╚█████╔╝██║╚██████╗██║  ██║███████╗██║  ██║   ██║   ███████╗███████║
 ╚═════╝  ╚═════╝  ╚════╝ ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝
 ```
+
 ### `Empowering God-Fearing Filipino Developers Through Technology & Growth`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=5000&pause=2000&color=00D9FF&center=true&vCenter=true&width=800&lines=TO+ALL+BSIT+%7C+BCSC+%7C+BSIS+%7C+ICT+%7C+BSCPE+%7C+SELF-LEARNERS+%7C+AND+BEGINNERS;THIS+GITHUB+ACCOUNT+CAN+HELP+YOU+START+UP+YOUR+LEARNING+JOURNEY+TO+TECH;YOU+CAN+DOWNLOAD+AND+USE+MY+PROJECTS+AS+YOU+WATCH+MY+TUTORIALS+%7C+LEARN+BY+DOING;SUPPORT+OUR+EFFORT+BY+GIVING+US+A+FOLLOW+OR+AVAILING+ANY+OF+OUR+PDF+PRODUCTS;MERON+DIN+PO+TAYONG+GROUP+SA+FB+NASA+PINAKA+BABA+PO+ANG+LINK;SALAMAT+PO+PALAGI+SA+DIOS+SA+BAWAT+PAGAKAKATAON+AT+SA+LAHAT+NG+MGA+BAGAY+!!;" alt="Typing SVG" />
@@ -15,7 +16,9 @@
 <div align="center">
 
 ---
+
 ---
+
 <br><br>
 
 ### **Coding Tutorials**
@@ -30,7 +33,6 @@
   <img src="https://img.youtube.com/vi/6XJ8294lC0c/maxresdefault.jpg" width="90%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Tutorial 1"/>
 </a>
 
-
 [![Watch](https://img.shields.io/badge/▶_WATCH_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/6XJ8294lC0c)
 
 <br>
@@ -41,7 +43,6 @@
 <a href="https://youtu.be/Pyx9oLYpbi4?si=Aqr284t4U4DmPUJR">
   <img src="https://img.youtube.com/vi/Pyx9oLYpbi4/maxresdefault.jpg" width="90%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Tutorial 2"/>
 </a>
-
 
 [![Watch](https://img.shields.io/badge/▶_WATCH_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/Pyx9oLYpbi4)
 
@@ -56,7 +57,6 @@
   <img src="https://img.youtube.com/vi/xZ9umpUHRdU/maxresdefault.jpg" width="90%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Tutorial 3"/>
 </a>
 
-
 [![Watch](https://img.shields.io/badge/▶_WATCH_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/xZ9umpUHRdU)
 
 <br>
@@ -68,9 +68,7 @@
   <img src="https://img.youtube.com/vi/te1eLWfdd0I/maxresdefault.jpg" width="90%" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Tutorial 4"/>
 </a>
 
-
 [![Watch](https://img.shields.io/badge/▶_WATCH_NOW-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/te1eLWfdd0I)
-
 
 </td>
 </tr>
@@ -78,16 +76,13 @@
 
 ### [**VIEW ALL TUTORIALS →**](https://youtube.com/@dojicreates)
 
-
-
 <br><br><br>
-
 
 </div>
 
 ---
----
 
+---
 
 <div align="center">
 
@@ -103,13 +98,14 @@
 
 ```javascript
 const logic_NotLanguage = {
+  foundation:
+    "Wag ka munang magmadali matuto ng maraming programming languages, unahin mo muna ang pag-master ng problem-solving.",
 
-foundation: "Wag ka munang magmadali matuto ng maraming programming languages, unahin mo muna ang pag-master ng problem-solving.",
+  mindset:
+    "Kapag naintindihan mo na kung paano mag-isip tulad ng isang programmer, madali na lang magpalit ng kahit anong language.",
 
-mindset: "Kapag naintindihan mo na kung paano mag-isip tulad ng isang programmer, madali na lang magpalit ng kahit anong language.",
-
-practice: "Mag-practice muna ng pseudocode, algorithms, at flowcharts bago ka lumalim sa syntax."
-
+  practice:
+    "Mag-practice muna ng pseudocode, algorithms, at flowcharts bago ka lumalim sa syntax.",
 };
 ```
 
@@ -118,15 +114,14 @@ practice: "Mag-practice muna ng pseudocode, algorithms, at flowcharts bago ka lu
 
 ```javascript
 const build_SmallRealProjects = {
+  action:
+    "Huwag kang puro aral lang sa theory, mas matibay ang learning kapag ikaw mismo ang gumagawa at nag-e-experiment.",
 
-action: "Huwag kang puro aral lang sa theory, mas matibay ang learning kapag ikaw mismo ang gumagawa at nag-e-experiment.",
+  projects:
+    "Simulan mo sa maliliit pero useful na projects tulad ng calculator, to-do list, o converter para masanay ka sa logic at flow.",
 
-projects: "Simulan mo sa maliliit pero useful na projects tulad ng calculator, to-do list, o converter para masanay ka sa logic at flow.",
-
-growth: "Bawat project na matatapos mo ay unti-unting magpapatibay sa skills mo at magbibigay ng confidence bilang developer/programmer."
-
-
-
+  growth:
+    "Bawat project na matatapos mo ay unti-unting magpapatibay sa skills mo at magbibigay ng confidence bilang developer/programmer.",
 };
 ```
 
@@ -136,16 +131,15 @@ growth: "Bawat project na matatapos mo ay unti-unting magpapatibay sa skills mo 
 
 ```javascript
 const stay_ConsistentlyCurious = {
+  consistency:
+    "Mag-code kahit kaunti araw-araw, dahil sa programming mas mahalaga ang consistency kaysa sa bilis.",
 
-consistency: "Mag-code kahit kaunti araw-araw, dahil sa programming mas mahalaga ang consistency kaysa sa bilis.",
+  curiosity:
+    "Wag matakot magtanong o mag-search sa Google, kasama talaga sa pagiging developer ang pagre-research at pagde-debug.",
 
-curiosity: "Wag matakot magtanong o mag-search sa Google, kasama talaga sa pagiging developer ang pagre-research at pagde-debug.",
-
-growth: "Sundan ang mga tech trends tulad ng AI, web dev tools, at open-source projects para manatiling updated at lumago sa career mo.",
-
-
+  growth:
+    "Sundan ang mga tech trends tulad ng AI, web dev tools, at open-source projects para manatiling updated at lumago sa career mo.",
 };
-
 ```
 
 </td>
@@ -154,16 +148,11 @@ growth: "Sundan ang mga tech trends tulad ng AI, web dev tools, at open-source p
 
 <br><br><br>
 
-
-
----
 ---
 
+---
 
 </div>
-
-
-
 
 <div align="center">
 
@@ -179,39 +168,47 @@ growth: "Sundan ang mga tech trends tulad ng AI, web dev tools, at open-source p
 <img src="https://img.icons8.com/fluency/96/000000/code.png" width="80" style="pointer-events: none;"/>
 
 ### **PROGRAMMING**
+
 The foundation of all tech innovation programming trains your logic, creativity, and problem-solving mindset. It’s where ideas turn into real-world applications that impact people’s lives.
+
 </td>
 
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="80" style="pointer-events: none;"/>
 
 ### **AI & ROBOTICS**
+
 Understanding AI and automation prepares you for the next era of technology. It’s where computers start thinking and machines begin learning, the probability runs on this.
+
 </td>
 
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="80"/>
 
 ### **GROWTH**
-Tech alone isn’t enough mindset, habits, and discipline fuel consistency. Personal growth ensures that you don’t just code better, you *become* better every day.
+
+Tech alone isn’t enough mindset, habits, and discipline fuel consistency. Personal growth ensures that you don’t just code better, you _become_ better every day.
+
 </td>
 
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/meditation-guru.png" width="80"/>
 
 ### **SELF DEVELOPMENT**
+
 A strong body and clear mind lead to sustainable productivity. In tech, mental focus and physical well-being are your real long-term assets.
+
 </td>
 </tr>
 </table>
 
-
 <br><br><br>
+
 </div>
 
 ---
----
 
+---
 
 <div align="center">
 
@@ -278,17 +275,16 @@ A strong body and clear mind lead to sustainable productivity. In tech, mental f
 </table>
 
 <br><br><br>
+
 </div>
 
-
----
 ---
 
+---
 
 <div align="center">
 
 <br><br><br>
-
 
 ### CONTENT.DISTRIBUTION
 
@@ -303,17 +299,13 @@ pie title Content Focus Areas
     "Finance & Productivity" : 10
 ```
 
-
-
 <br><br><br>
-
 
 </div>
 
 ---
+
 ---
-
-
 
 <div align="center">
 
@@ -323,12 +315,11 @@ pie title Content Focus Areas
 
 <br><br>
 
-
 <table>
 <tr>
 <td>
 
-> ### *"Awakening the greatness of God-fearing Filipino developers through accessible Tagalog programming education. In a world drowning in information, I create clarity. Through code, I build solutions. Through content, I share knowledge. Through consistency, I inspire action."*
+> ### _"Awakening the greatness of God-fearing Filipino developers through accessible Tagalog programming education. In a world drowning in information, I create clarity. Through code, I build solutions. Through content, I share knowledge. Through consistency, I inspire action."_
 
 <br>
 
@@ -385,6 +376,7 @@ pie title Content Focus Areas
 <img src="https://img.icons8.com/fluency/96/000000/education.png" width="70" style="pointer-events: none;"/>
 
 ### **EDUCATE**
+
 Tagalog programming tutorials  
 Free for all Filipino learners
 
@@ -392,7 +384,8 @@ Free for all Filipino learners
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png" width="70" style="pointer-events: none;"/>
 
-###  **INSPIRE**
+### **INSPIRE**
+
 Showing what's achievable  
 Building Filipino tech excellence
 
@@ -400,7 +393,8 @@ Building Filipino tech excellence
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/muscle.png" width="70" style="pointer-events: none;"/>
 
-###  **EMPOWER**
+### **EMPOWER**
+
 Practical skills & projects  
 Real-world applications
 
@@ -412,17 +406,16 @@ Real-world applications
 
 ---
 
-
 <div align="center">
 
-###  GROWTH.TRAJECTORY
+### GROWTH.TRAJECTORY
 
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'fontSize': '16px'}}}%%
 graph LR
     A["2022<br/>Foundation"] -->|Build| B["2025<br/>Scale"]
     B -->|Expand| C["Future<br/>Impact"]
-    
+
     style A fill:#00d4ff,stroke:#00a8cc,stroke-width:3px,color:#000
     style B fill:#00ff88,stroke:#00cc6a,stroke-width:3px,color:#000
     style C fill:#ff00ff,stroke:#cc00cc,stroke-width:3px,color:#fff
@@ -432,8 +425,9 @@ graph LR
 <tr>
 <td align="center" width="33%">
 
-###  **2022**
- Platform Building  
+### **2022**
+
+Platform Building  
  Content Consistency  
  Community Growth  
  Tagalog Tutorial Library
@@ -441,8 +435,9 @@ graph LR
 </td>
 <td align="center" width="33%">
 
-###  **2025**
- Scale Production  
+### **2025**
+
+Scale Production  
  Community Expansion  
  Strategic Partnerships  
  Educational Platform
@@ -450,8 +445,9 @@ graph LR
 </td>
 <td align="center" width="33%">
 
-###  **FUTURE**
- Filipino Dev Leadership  
+### **FUTURE**
+
+Filipino Dev Leadership  
  Product Development  
  Tech Education Hub  
  Global Filipino Devs
@@ -464,7 +460,7 @@ graph LR
 
 ---
 
-##  LEARNING.PATH
+## LEARNING.PATH
 
 <div align="center">
 
@@ -475,17 +471,17 @@ graph TD
     A --> A1[HTML/CSS Basics]
     A --> A2[C++ Fundamentals]
     A --> A3[Programming Logic]
-    
+
     A --> B[" INTERMEDIATE"]
     B --> B1[JavaScript Projects]
     B --> B2[Python Programming]
     B --> B3[Data Structures]
-    
+
     B --> C[" ADVANCED"]
     C --> C1[Web Development]
     C --> C2[AI/ML Implementation]
     C --> C3[Full-Stack Projects]
-    
+
     style START fill:#ff0080,stroke:#cc0066,stroke-width:3px,color:#fff
     style A fill:#00d4ff,stroke:#00a8cc,stroke-width:2px,color:#000
     style B fill:#00ff88,stroke:#00cc6a,stroke-width:2px,color:#000
@@ -496,28 +492,28 @@ graph TD
 
 ---
 
-
-
 <div align="center">
 
 <br><br><br><br>
 
+### TUTORIAL.CATEGORIES
 
-###  TUTORIAL.CATEGORIES
 <br><br>
 
-
-|  **Web Dev** |  **C++** |  **Python** |  **Java** |  **AI/ML** |
-|:---:|:---:|:---:|:---:|:---:|
-| HTML5 Basics | Syntax & Structure | Getting Started | OOP Concepts | Neural Networks |
-| CSS Styling | Data Structures | File Handling | Inheritance | ML Algorithms |
-| JavaScript | Algorithms | Libraries | Polymorphism | Automation |
+|                             **Web Dev**                             |                               **C++**                               |                             **Python**                              |                              **Java**                               |                              **AI/ML**                              |
+| :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
+|                            HTML5 Basics                             |                         Syntax & Structure                          |                           Getting Started                           |                            OOP Concepts                             |                           Neural Networks                           |
+|                             CSS Styling                             |                           Data Structures                           |                            File Handling                            |                             Inheritance                             |                            ML Algorithms                            |
+|                             JavaScript                              |                             Algorithms                              |                              Libraries                              |                            Polymorphism                             |                             Automation                              |
 | ![](https://img.shields.io/badge/-Tagalog-00d4ff?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-00ff88?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ff00ff?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ffd700?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ff0080?style=flat-square) |
 
 <br><br><br><br>
 
 </div>
 
+---
+
+---
 
 <div align="center">
 
@@ -531,6 +527,7 @@ graph TD
 <img src="https://img.icons8.com/fluency/96/000000/video.png" width="70" style="pointer-events: none;"/>
 
 ### **Tutorials**
+
 Full-length Tagalog coding lessons
 
 </td>
@@ -538,6 +535,7 @@ Full-length Tagalog coding lessons
 <img src="https://img.icons8.com/fluency/96/000000/pdf.png" width="70" style="pointer-events: none;"/>
 
 ### **PDF Notes**
+
 Downloadable study materials & guides
 
 </td>
@@ -545,6 +543,7 @@ Downloadable study materials & guides
 <img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="70" style="pointer-events: none;"/>
 
 ### **Source Code**
+
 GitHub repos & project files
 
 </td>
@@ -552,6 +551,7 @@ GitHub repos & project files
 <img src="https://img.icons8.com/fluency/96/000000/toolbox.png" width="70" style="pointer-events: none;"/>
 
 ### **Dev Tools**
+
 Utilities & helper  
 applications
 
@@ -563,23 +563,13 @@ applications
 
 <br><br><br><br>
 
-
-
----
 ---
 
-<br><br><br><br>
-
-
-
 ---
----
-
 
 <div align="center">
 
 <br><br><br>
-
 
 <table>
 <tr>
@@ -600,8 +590,8 @@ applications
 
 <br><br>
 
+### **COLLABORATION OPPORTUNITIES**
 
-###  **COLLABORATION OPPORTUNITIES**
 <br>
 
 ![Tutorials](https://img.shields.io/badge/Tutorial_Collaborations-ffffff?style=flat-square)
@@ -614,30 +604,26 @@ applications
 </div>
 
 ---
+
 ---
-
-
 
 <div align="center">
 
 <br><br>
 
-###  *Always Remember*
+### _Always Remember_
 
 <br>
-
 
 <table>
 <tr>
 <td>
 
-
-> ### *"... Ang Panginoon ay nagbibigay ng karunungan, sa kaniyang bibig nanggagaling ang kaalaman at kaunawaan."*
-> 
+> ### _"... Ang Panginoon ay nagbibigay ng karunungan, sa kaniyang bibig nanggagaling ang kaalaman at kaunawaan."_
+>
 > Sa lahat ng mabuting bagay na ating matututunan, ang lagi nating pasasalamat ay sa Dios lamang.
 
 <br>
-
 
 <br>
 
@@ -650,9 +636,8 @@ applications
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 ---
+
 <br>
-
-
 
 **STATUS: ` ONLINE`** | **UPDATED: `2025`** | **AWAKEN THE GREATNESS** | **EOF**
 
