@@ -178,96 +178,96 @@ pie title Content Focus Areas
 
 <div align="center">
 
-<br><br>
+# 💫 MISSION STATEMENT
 
-### MISSION
+> ### _"Awakening the greatness of God-fearing Filipino developers through accessible Tagalog programming education."_
+> 
+> _In a world drowning in information, I create clarity. Through code, I build solutions. Through content, I share knowledge. Through consistency, I inspire action._
+
+<br>
+
+## 🎯 CORE VALUES
 
 <table>
 <tr>
-<td>
-
-> ### _"Awakening the greatness of God-fearing Filipino developers through accessible Tagalog programming education. In a world drowning in information, I create clarity. Through code, I build solutions. Through content, I share knowledge. Through consistency, I inspire action."_
-
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/48/000000/light.png" width="60" style="pointer-events: none;"/>
+<br><br>
+<strong>CLARITY</strong>
 <br>
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/light.png" style="pointer-events: none;"/>
-<br><strong>CLARITY</strong>
-<br>
-<sub>Tagalog explanations</sub>
+<sub>Tagalog explanations<br>for better understanding</sub>
 </td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/diamond.png" style="pointer-events: none;"/>
-<br><strong>VALUE</strong>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/48/000000/diamond.png" width="60" style="pointer-events: none;"/>
+<br><br>
+<strong>VALUE</strong>
 <br>
-<sub>Free quality content</sub>
+<sub>Free quality content<br>for everyone</sub>
 </td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/infinity.png" style="pointer-events: none;"/>
-<br><strong>CONSISTENCY</strong>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/48/000000/infinity.png" width="60" style="pointer-events: none;"/>
+<br><br>
+<strong>CONSISTENCY</strong>
 <br>
-<sub>Regular tutorials</sub>
+<sub>Regular tutorials<br>and updates</sub>
 </td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/innovation.png" style="pointer-events: none;"/>
-<br><strong>INNOVATION</strong>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/48/000000/innovation.png" width="60" style="pointer-events: none;"/>
+<br><br>
+<strong>INNOVATION</strong>
 <br>
-<sub>Modern tech education</sub>
+<sub>Modern tech<br>education</sub>
 </td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/verified-badge.png" style="pointer-events: none;"/>
-<br><strong>FAITH</strong>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/48/000000/verified-badge.png" width="60" style="pointer-events: none;"/>
+<br><br>
+<strong>FAITH</strong>
 <br>
-<sub>God-honoring work</sub>
-</td>
-</tr>
-</table>
-
+<sub>God-honoring<br>work</sub>
 </td>
 </tr>
 </table>
 
 <br><br>
 
-### CORE.MODULES
+## 📚 CORE MODULES
 
 <table>
 <tr>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/code.png" width="80" style="pointer-events: none;"/>
+<br><br>
 
 ### **PROGRAMMING**
 
-The foundation of all tech innovation programming trains your logic, creativity, and problem-solving mindset. It’s where ideas turn into real-world applications that impact people’s lives.
+The foundation of all tech innovation. Programming trains your logic, creativity, and problem-solving mindset—transforming ideas into real-world applications.
 
 </td>
-
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="80" style="pointer-events: none;"/>
+<br><br>
 
 ### **AI & ROBOTICS**
 
-Understanding AI and automation prepares you for the next era of technology. It’s where computers start thinking and machines begin learning, the probability runs on this.
+Understanding AI and automation prepares you for the next era of technology where computers think and machines learn.
 
 </td>
-
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="80" style="pointer-events: none;"/>
+<br><br>
 
 ### **GROWTH**
 
-Tech alone isn’t enough mindset, habits, and discipline fuel consistency. Personal growth ensures that you don’t just code better, you _become_ better every day.
+Tech alone isn't enough. Mindset, habits, and discipline fuel consistency, helping you become better every day.
 
 </td>
-
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/meditation-guru.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/meditation-guru.png" width="80" style="pointer-events: none;"/>
+<br><br>
 
-### **SELF DEVELOPMENT**
+### **WELLNESS**
 
-A strong body and clear mind lead to sustainable productivity. In tech, mental focus and physical well-being are your real long-term assets.
+A strong body and clear mind lead to sustainable productivity. Mental focus and physical well-being are your long-term assets.
 
 </td>
 </tr>
@@ -275,41 +275,44 @@ A strong body and clear mind lead to sustainable productivity. In tech, mental f
 
 <br><br>
 
-### RESOURCES.AVAILABLE
+## 🎁 RESOURCES AVAILABLE
 
 <table>
 <tr>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/video.png" width="70" style="pointer-events: none;"/>
+<br><br>
 
-### **Tutorials**
+### **Video Tutorials**
 
-Full-length Tagalog coding lessons
+Full-length Tagalog coding lessons with hands-on examples
 
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/pdf.png" width="70" style="pointer-events: none;"/>
+<br><br>
 
 ### **PDF Notes**
 
-Downloadable study materials & guides
+Downloadable study materials and comprehensive guides
 
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="70" style="pointer-events: none;"/>
+<br><br>
 
 ### **Source Code**
 
-GitHub repos & project files
+GitHub repositories and project files ready to use
 
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/96/000000/toolbox.png" width="70" style="pointer-events: none;"/>
+<br><br>
 
 ### **Dev Tools**
 
-Utilities & helper  
-applications
+Utilities and helper applications for productivity
 
 </td>
 </tr>
@@ -317,35 +320,35 @@ applications
 
 <br><br>
 
-### CONTENT.PHILOSOPHY
+## 💡 CONTENT PHILOSOPHY
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/open-book.png" width="70" style="pointer-events: none;"/>
+<img src="https://img.icons8.com/fluency/96/000000/open-book.png" width="80" style="pointer-events: none;"/>
+<br><br>
 
 ### **EDUCATE**
 
-Tagalog programming tutorials  
-Free for all Filipino learners
+Tagalog programming tutorials made free and accessible for all Filipino learners
 
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png" width="70" style="pointer-events: none;"/>
+<img src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png" width="80" style="pointer-events: none;"/>
+<br><br>
 
 ### **INSPIRE**
 
-Showing what's achievable  
-Building Filipino tech excellence
+Showing what's achievable while building Filipino tech excellence
 
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/handshake.png" width="70" style="pointer-events: none;"/>
+<img src="https://img.icons8.com/fluency/96/000000/handshake.png" width="80" style="pointer-events: none;"/>
+<br><br>
 
 ### **EMPOWER**
 
-Practical skills & projects  
-Real-world applications
+Practical skills and projects with real-world applications
 
 </td>
 </tr>
@@ -353,123 +356,173 @@ Real-world applications
 
 <br><br>
 
-### TECH STACK & MY OTHER INTEREST
+## 🛠️ TECHNOLOGY STACK
 
+### Frontend Development
 <table>
 <tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/html-5--v1.png" width="65" style="pointer-events: none;"/><br><strong>HTML5</strong>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/html-5--v1.png" width="60" style="pointer-events: none;"/>
+<br><strong>HTML5</strong>
 </td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/css3.png" width="65" style="pointer-events: none;"/><br><strong>CSS3</strong>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/css3.png" width="60" style="pointer-events: none;"/>
+<br><strong>CSS3</strong>
 </td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/javascript--v1.png" width="65" style="pointer-events: none;"/><br><strong>JavaScript</strong>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/javascript--v1.png" width="60" style="pointer-events: none;"/>
+<br><strong>JavaScript</strong>
 </td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/typescript.png" width="65" style="pointer-events: none;"/><br><strong>TypeScript</strong>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/typescript.png" width="60" style="pointer-events: none;"/>
+<br><strong>TypeScript</strong>
 </td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/plasticine/100/react.png" width="65" style="pointer-events: none;"/><br><strong>React</strong>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/plasticine/100/react.png" width="60" style="pointer-events: none;"/>
+<br><strong>React</strong>
 </td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="65" style="pointer-events: none;"/><br><strong>Bootstrap</strong>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="60" style="pointer-events: none;"/>
+<br><strong>Bootstrap</strong>
 </td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/tailwindcss.png" width="65" style="pointer-events: none;"/><br><strong>Tailwind CSS</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/vite.png" width="65" style="pointer-events: none;"/><br><strong>Vite</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/nodejs.png" width="65" style="pointer-events: none;"/><br><strong>Node.js</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/python--v1.png" width="65" style="pointer-events: none;"/><br><strong>Python</strong>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="65" style="pointer-events: none;"/><br><strong>Java</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/c-programming.png" width="65" style="pointer-events: none;"/><br><strong>C Language</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="65" style="pointer-events: none;"/><br><strong>C++</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" width="65" style="pointer-events: none;"/><br><strong>C#</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/git.png" width="65" style="pointer-events: none;"/><br><strong>Git</strong>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" width="65" style="pointer-events: none;"/><br><strong>VS Code</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/github--v1.png" width="65" style="pointer-events: none;"/><br><strong>GitHub</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/figma--v1.png" width="65" style="pointer-events: none;"/><br><strong>Figma</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/android-studio--v1.png" width="65" style="pointer-events: none;"/><br><strong>Android Studio</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/adobe-premiere-pro--v1.png" width="65" style="pointer-events: none;"/><br><strong>Premiere Pro</strong>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/video-editing.png" width="65" style="pointer-events: none;"/><br><strong>CapCut</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/adobe-after-effects--v1.png" width="65" style="pointer-events: none;"/><br><strong>After Effects</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/camera--v1.png" width="65" style="pointer-events: none;"/><br><strong>Photography</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/musical-notes.png" width="65" style="pointer-events: none;"/><br><strong>Music</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/ableton-live.png" width="65" style="pointer-events: none;"/><br><strong>Ableton</strong>
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/paint-palette.png" width="65" style="pointer-events: none;"/><br><strong>Arts</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/film-reel.png" width="65" style="pointer-events: none;"/><br><strong>Video Editing</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/handshake.png" width="65" style="pointer-events: none;"/><br><strong>Content Creation</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/money.png" width="65" style="pointer-events: none;"/><br><strong>Finance</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/heart-health.png" width="65" style="pointer-events: none;"/><br><strong>Health</strong>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/tailwindcss.png" width="60" style="pointer-events: none;"/>
+<br><strong>Tailwind</strong>
 </td>
 </tr>
 </table>
 
-<br><br><br>
+### Backend & Programming Languages
+<table>
+<tr>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/nodejs.png" width="60" style="pointer-events: none;"/>
+<br><strong>Node.js</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/python--v1.png" width="60" style="pointer-events: none;"/>
+<br><strong>Python</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="60" style="pointer-events: none;"/>
+<br><strong>Java</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/c-programming.png" width="60" style="pointer-events: none;"/>
+<br><strong>C</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="60" style="pointer-events: none;"/>
+<br><strong>C++</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" width="60" style="pointer-events: none;"/>
+<br><strong>C#</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/vite.png" width="60" style="pointer-events: none;"/>
+<br><strong>Vite</strong>
+</td>
+</tr>
+</table>
+
+### Tools & Version Control
+<table>
+<tr>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/git.png" width="60" style="pointer-events: none;"/>
+<br><strong>Git</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/github--v1.png" width="60" style="pointer-events: none;"/>
+<br><strong>GitHub</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" width="60" style="pointer-events: none;"/>
+<br><strong>VS Code</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/figma--v1.png" width="60" style="pointer-events: none;"/>
+<br><strong>Figma</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/android-studio--v1.png" width="60" style="pointer-events: none;"/>
+<br><strong>Android Studio</strong>
+</td>
+<td align="center" width="14.28%">
+</td>
+<td align="center" width="14.28%">
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🎨 CREATIVE & OTHER INTERESTS
+
+### Content Creation & Multimedia
+<table>
+<tr>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/adobe-premiere-pro--v1.png" width="60" style="pointer-events: none;"/>
+<br><strong>Premiere Pro</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/adobe-after-effects--v1.png" width="60" style="pointer-events: none;"/>
+<br><strong>After Effects</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/video-editing.png" width="60" style="pointer-events: none;"/>
+<br><strong>CapCut</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/camera--v1.png" width="60" style="pointer-events: none;"/>
+<br><strong>Photography</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/film-reel.png" width="60" style="pointer-events: none;"/>
+<br><strong>Video Editing</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/handshake.png" width="60" style="pointer-events: none;"/>
+<br><strong>Content Creation</strong>
+</td>
+<td align="center" width="14.28%">
+<img src="https://img.icons8.com/color/96/000000/paint-palette.png" width="60" style="pointer-events: none;"/>
+<br><strong>Digital Arts</strong>
+</td>
+</tr>
+</table>
+
+### Music & Personal Growth
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/musical-notes.png" width="60" style="pointer-events: none;"/>
+<br><strong>Music</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/ableton-live.png" width="60" style="pointer-events: none;"/>
+<br><strong>Ableton Live</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/money.png" width="60" style="pointer-events: none;"/>
+<br><strong>Finance</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/heart-health.png" width="60" style="pointer-events: none;"/>
+<br><strong>Health & Wellness</strong>
+</td>
+<td align="center" width="20%">
+</td>
+</tr>
+</table>
+
+<br><br>
 
 ---
 
----
+<sub>💻 Building with purpose | 🎓 Teaching with passion | ✨ Growing with faith</sub>
 
 </div>
 
