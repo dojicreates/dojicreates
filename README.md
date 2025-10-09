@@ -375,7 +375,6 @@ Real-world applications
 
 
 
-
 <table>
 <tr>
 <td align="center" width="20%">
@@ -397,25 +396,31 @@ Real-world applications
 
 <tr>
 <td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="65" style="pointer-events: none;"/><br><strong>Bootstrap</strong>
+</td>
+<td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/tailwindcss.png" width="65" style="pointer-events: none;"/><br><strong>Tailwind CSS</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/vite.png" width="65" style="pointer-events: none;"/><br><strong>Vite</strong>
 </td>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="65" style="pointer-events: none;"/><br><strong>Node.js</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/flutter.png" width="65" style="pointer-events: none;"/><br><strong>Flutter</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/c-programming.png" width="65" style="pointer-events: none;"/><br><strong>C Language</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="65" style="pointer-events: none;"/><br><strong>Java</strong>
+<img src="https://img.icons8.com/color/96/000000/python--v1.png" width="65" style="pointer-events: none;"/><br><strong>Python</strong>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="65" style="pointer-events: none;"/><br><strong>Bootstrap</strong>
+<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="65" style="pointer-events: none;"/><br><strong>Java</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/c-programming.png" width="65" style="pointer-events: none;"/><br><strong>C Language</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="65" style="pointer-events: none;"/><br><strong>C++</strong>
 </td>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/git.png" width="65" style="pointer-events: none;"/><br><strong>Git</strong>
@@ -423,15 +428,15 @@ Real-world applications
 <td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" width="65" style="pointer-events: none;"/><br><strong>VS Code</strong>
 </td>
+</tr>
+
+<tr>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/github--v1.png" width="65" style="pointer-events: none;"/><br><strong>GitHub</strong>
 </td>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/figma--v1.png" width="65" style="pointer-events: none;"/><br><strong>Figma</strong>
 </td>
-</tr>
-
-<tr>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/android-studio--v1.png" width="65" style="pointer-events: none;"/><br><strong>Android Studio</strong>
 </td>
@@ -441,15 +446,15 @@ Real-world applications
 <td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/video-editing.png" width="65" style="pointer-events: none;"/><br><strong>CapCut</strong>
 </td>
+</tr>
+
+<tr>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/adobe-after-effects--v1.png" width="65" style="pointer-events: none;"/><br><strong>After Effects</strong>
 </td>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/camera--v1.png" width="65" style="pointer-events: none;"/><br><strong>Photography</strong>
 </td>
-</tr>
-
-<tr>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/musical-notes.png" width="65" style="pointer-events: none;"/><br><strong>Music</strong>
 </td>
@@ -459,12 +464,16 @@ Real-world applications
 <td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/film-reel.png" width="65" style="pointer-events: none;"/><br><strong>Video Editing</strong>
 </td>
+</tr>
+
+<tr>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/handshake.png" width="65" style="pointer-events: none;"/><br><strong>Content Creation</strong>
 </td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/android.png" width="65" style="pointer-events: none;"/><br><strong>Mobile Dev</strong>
-</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
