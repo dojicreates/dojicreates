@@ -187,6 +187,75 @@ const stay_ConsistentlyCurious = {
 
 <br><br><br>
 
+
+
+
+
+
+
+
+
+### MISSION.STATEMENT
+
+<br><br>
+
+<table>
+<tr>
+<td>
+
+> ### _"Awakening the greatness of God-fearing Filipino developers through accessible Tagalog programming education. In a world drowning in information, I create clarity. Through code, I build solutions. Through content, I share knowledge. Through consistency, I inspire action."_
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/light.png" style="pointer-events: none;"/>
+<br><strong>CLARITY</strong>
+<br>
+<sub>Tagalog explanations</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/diamond.png" style="pointer-events: none;"/>
+<br><strong>VALUE</strong>
+<br>
+<sub>Free quality content</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/infinity.png" style="pointer-events: none;"/>
+<br><strong>CONSISTENCY</strong>
+<br>
+<sub>Regular tutorials</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/innovation.png" style="pointer-events: none;"/>
+<br><strong>INNOVATION</strong>
+<br>
+<sub>Modern tech education</sub>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/verified-badge.png" style="pointer-events: none;"/>
+<br><strong>FAITH</strong>
+<br>
+<sub>God-honoring work</sub>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
 ### CORE.MODULES
 
 <table>
@@ -270,6 +339,12 @@ applications
 </td>
 </tr>
 </table>
+
+
+
+
+
+
 
 
 
@@ -379,66 +454,6 @@ applications
 
 ---
 
----
-
-<div align="center">
-
-<br><br><br>
-
-### MISSION.STATEMENT
-
-<br><br>
-
-<table>
-<tr>
-<td>
-
-> ### _"Awakening the greatness of God-fearing Filipino developers through accessible Tagalog programming education. In a world drowning in information, I create clarity. Through code, I build solutions. Through content, I share knowledge. Through consistency, I inspire action."_
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/light.png" style="pointer-events: none;"/>
-<br><strong>CLARITY</strong>
-<br>
-<sub>Tagalog explanations</sub>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/diamond.png" style="pointer-events: none;"/>
-<br><strong>VALUE</strong>
-<br>
-<sub>Free quality content</sub>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/infinity.png" style="pointer-events: none;"/>
-<br><strong>CONSISTENCY</strong>
-<br>
-<sub>Regular tutorials</sub>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/innovation.png" style="pointer-events: none;"/>
-<br><strong>INNOVATION</strong>
-<br>
-<sub>Modern tech education</sub>
-</td>
-<td align="center">
-<img src="https://img.icons8.com/fluency/48/000000/verified-badge.png" style="pointer-events: none;"/>
-<br><strong>FAITH</strong>
-<br>
-<sub>God-honoring work</sub>
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## CONTENT.PHILOSOPHY
 
