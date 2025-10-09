@@ -17,9 +17,9 @@
 
 ## ALWAYS REMEMBER
 
-> # _"... Ang Panginoon ay nagbibigay ng karunungan, sa kaniyang bibig nanggagaling ang kaalaman at kaunawaan."_
-> 
-> ## Sa lahat ng mabuting bagay na ating matututunan, ang lagi nating pasasalamat ay sa Dios lamang.
+# _"... Ang Panginoon ay nagbibigay ng karunungan, sa kaniyang bibig nanggagaling ang kaalaman at kaunawaan."_
+
+## Sa lahat ng mabuting bagay na ating matututunan, ang lagi nating pasasalamat ay sa Dios lamang.
 
 <br>
 
