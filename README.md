@@ -30,6 +30,7 @@
   <!-- Doji Column -->
   <div style="flex:1; min-width:150px;">
     <h3>Doji</h3>
+
     <details>
       <summary>dojicreates.com</summary>
       <p>My personal website and portfolio where I showcase my projects and creative work. This was my first publicly shareable project, highlighting responsive design and interactive features.</p>
@@ -69,6 +70,7 @@
         <img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24"/> View Site
       </a>
     </details>
+
   </div>
 
   <!-- Beginner Column -->
@@ -90,6 +92,7 @@
   </div>
 
 </div>
+
 
 
 
