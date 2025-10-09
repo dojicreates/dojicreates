@@ -15,7 +15,7 @@
 
 <br>
 
-##LWAYS REMEMBER
+## ALWAYS REMEMBER
 
 > # _"... Ang Panginoon ay nagbibigay ng karunungan, sa kaniyang bibig nanggagaling ang kaalaman at kaunawaan."_
 > 
@@ -23,7 +23,7 @@
 
 <br>
 
-##ORE VALUES
+## CORE VALUES
 
 <table>
 <tr>
@@ -67,7 +67,7 @@
 
 <br>
 
-##UTORIAL CATEGORIES
+## TUTORIAL CATEGORIES
 
 <table>
 <tr>
@@ -116,7 +116,7 @@ AI Projects<br><br>
 
 <br>
 
-##EATURED TUTORIALS
+## FEATURED TUTORIALS
 
 <table>
 <tr>
@@ -165,7 +165,7 @@ AI Projects<br><br>
 
 <br>
 
-##EARNING TRAJECTORY
+## LEARNING TRAJECTORY
 
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'fontSize': '16px'}}}%%
@@ -180,7 +180,7 @@ graph LR
 
 <br>
 
-##EARNING PATH
+## LEARNING PATH
 
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'fontSize': '16px'}}}%%
