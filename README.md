@@ -190,8 +190,6 @@ const stay_ConsistentlyCurious = {
 
 ### MISSION
 
-<br><br>
-
 <table>
 <tr>
 <td>
@@ -494,6 +492,10 @@ Real-world applications
 
 <br><br><br>
 
+
+---
+---
+
 </div>
 
 
@@ -519,12 +521,14 @@ Real-world applications
 
 
 
----
 
 
 
 <div align="center">
 
+<br><br><br>
+
+### ** TRAJECTORY**
 
 
 ```mermaid
@@ -596,16 +600,18 @@ pie title Content Focus Areas
 
 <br><br>
 
-|                             **Web Dev**                             |                               **C++**                               |                             **Python**                              |                              **Java**                               |                              **AI/ML**                              |
+|                             **Web Dev**                             |                               **C/C++**                             |                             **Python**                              |                              **Java**                               |                              **AI/ML**                              |
 | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
 |                            HTML5 Basics                             |                         Syntax & Structure                          |                           Getting Started                           |                            OOP Concepts                             |                           Neural Networks                           |
 |                             CSS Styling                             |                           Data Structures                           |                            File Handling                            |                             Inheritance                             |                            ML Algorithms                            |
 |                             JavaScript                              |                             Algorithms                              |                              Libraries                              |                            Polymorphism                             |                             Automation                              |
+|                           React & Tailwind                          |                         Memory Management                            |                             Projects                                |                            Java Projects                             |                           AI Projects                                |
 | ![](https://img.shields.io/badge/-Tagalog-00d4ff?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-00ff88?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ff00ff?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ffd700?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ff0080?style=flat-square) |
 
 <br><br><br><br>
 
 </div>
+
 
 ---
 
