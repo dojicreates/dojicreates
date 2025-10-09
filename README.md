@@ -13,20 +13,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=5000&pause=2000&color=00D9FF&center=true&vCenter=true&width=800&lines=TO+ALL+BSIT+%7C+BCSC+%7C+BSIS+%7C+ICT+%7C+BSCPE+%7C+SELF-LEARNERS+%7C+AND+BEGINNERS;THIS+GITHUB+ACCOUNT+CAN+HELP+YOU+START+UP+YOUR+LEARNING+JOURNEY+TO+TECH;YOU+CAN+DOWNLOAD+AND+USE+MY+PROJECTS+AS+YOU+WATCH+MY+TUTORIALS+%7C+LEARN+BY+DOING;SUPPORT+OUR+EFFORT+BY+GIVING+US+A+FOLLOW+OR+AVAILING+ANY+OF+OUR+PDF+PRODUCTS;MERON+DIN+PO+TAYONG+GROUP+SA+FB+NASA+PINAKA+BABA+PO+ANG+LINK;SALAMAT+PO+PALAGI+SA+DIOS+SA+BAWAT+PAGAKAKATAON+AT+SA+LAHAT+NG+MGA+BAGAY+!!;" alt="Typing SVG" />
 
-
-
-
-
-
-
-
-
-
 <div align="center">
 
 <br><br>
 
 ---
+
 ---
 
 <br><br>
@@ -35,28 +27,22 @@
 
 <br>
 
-|                             **Web Dev**                             |                               **C/C++**                             |                             **Python**                              |                              **Java**                               |                              **AI/ML**                              |
+|                             **Web Dev**                             |                              **C/C++**                              |                             **Python**                              |                              **Java**                               |                              **AI/ML**                              |
 | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
 |                            HTML5 Basics                             |                         Syntax & Structure                          |                           Getting Started                           |                            OOP Concepts                             |                           Neural Networks                           |
 |                             CSS Styling                             |                           Data Structures                           |                            File Handling                            |                             Inheritance                             |                            ML Algorithms                            |
 |                             JavaScript                              |                             Algorithms                              |                              Libraries                              |                            Polymorphism                             |                             Automation                              |
-|                           React & Tailwind                          |                         Memory Management                            |                             Projects                                |                            Java Projects                             |                           AI Projects                                |
+|                          React & Tailwind                           |                          Memory Management                          |                              Projects                               |                            Java Projects                            |                             AI Projects                             |
 | ![](https://img.shields.io/badge/-Tagalog-00d4ff?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-00ff88?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ff00ff?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ffd700?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ff0080?style=flat-square) |
 
 <br><br>
 
 </div>
 
-
-
-
-
-
-
-
 <div align="center">
 
 ---
+
 ---
 
 <br><br>
@@ -124,18 +110,11 @@
 
 ---
 
-
-
-
-
-
-
 <div align="center">
 
 <br><br><br>
 
 ### **TRAJECTORY**
-
 
 ```mermaid
 %%{init: {'theme':'dark', 'themeVariables': {'fontSize': '16px'}}}%%
@@ -178,7 +157,6 @@ graph TD
 
 </div>
 
-
 <div align="center">
 
 ```mermaid
@@ -200,57 +178,7 @@ pie title Content Focus Areas
 
 <div align="center">
 
-<br><br><br><br>
-
-### TUTORIAL.CATEGORIES
-
 <br><br>
-
-|                             **Web Dev**                             |                               **C/C++**                             |                             **Python**                              |                              **Java**                               |                              **AI/ML**                              |
-| :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: | :-----------------------------------------------------------------: |
-|                            HTML5 Basics                             |                         Syntax & Structure                          |                           Getting Started                           |                            OOP Concepts                             |                           Neural Networks                           |
-|                             CSS Styling                             |                           Data Structures                           |                            File Handling                            |                             Inheritance                             |                            ML Algorithms                            |
-|                             JavaScript                              |                             Algorithms                              |                              Libraries                              |                            Polymorphism                             |                             Automation                              |
-|                           React & Tailwind                          |                         Memory Management                            |                             Projects                                |                            Java Projects                             |                           AI Projects                                |
-| ![](https://img.shields.io/badge/-Tagalog-00d4ff?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-00ff88?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ff00ff?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ffd700?style=flat-square) | ![](https://img.shields.io/badge/-Tagalog-ff0080?style=flat-square) |
-
-<br><br><br><br>
-
-</div>
-
-
----
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-<br><br>
-
 
 ### MISSION
 
@@ -303,7 +231,6 @@ pie title Content Focus Areas
 
 <br><br>
 
-
 ### CORE.MODULES
 
 <table>
@@ -348,8 +275,6 @@ A strong body and clear mind lead to sustainable productivity. In tech, mental f
 
 <br><br>
 
-
-
 ### RESOURCES.AVAILABLE
 
 <table>
@@ -390,13 +315,9 @@ applications
 </tr>
 </table>
 
-
 <br><br>
 
-
-
 ### CONTENT.PHILOSOPHY
-
 
 <table>
 <tr>
@@ -430,12 +351,9 @@ Real-world applications
 </tr>
 </table>
 
-
 <br><br>
 
 ### TECH STACK & MY OTHER INTEREST
-
-
 
 <table>
 <tr>
@@ -547,119 +465,13 @@ Real-world applications
 </tr>
 </table>
 
-
-
-
-
-
-
-
 <br><br><br>
 
-
----
----
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-<br><br><br>
-
-### **TRAJECTORY**
-
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'fontSize': '16px'}}}%%
-graph LR
-    A["2022<br/>Foundation"] -->|Build| B["2025<br/>Scale"]
-    B -->|Expand| C["Future<br/>Impact"]
-
-    style A fill:#00d4ff,stroke:#00a8cc,stroke-width:3px,color:#000
-    style B fill:#00ff88,stroke:#00cc6a,stroke-width:3px,color:#000
-    style C fill:#ff00ff,stroke:#cc00cc,stroke-width:3px,color:#fff
-```
-
-</div>
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'fontSize': '16px'}}}%%
-graph TD
-    START[" START HERE"] --> A[" BEGINNER"]
-    A --> A1[HTML/CSS Basics]
-    A --> A2[C++ Fundamentals]
-    A --> A3[Programming Logic]
-
-    A --> B[" INTERMEDIATE"]
-    B --> B1[JavaScript Projects]
-    B --> B2[Python Programming]
-    B --> B3[Data Structures]
-
-    B --> C[" ADVANCED"]
-    C --> C1[Web Development]
-    C --> C2[AI/ML Implementation]
-    C --> C3[Full-Stack Projects]
-
-    style START fill:#ff0080,stroke:#cc0066,stroke-width:3px,color:#fff
-    style A fill:#00d4ff,stroke:#00a8cc,stroke-width:2px,color:#000
-    style B fill:#00ff88,stroke:#00cc6a,stroke-width:2px,color:#000
-    style C fill:#ffd700,stroke:#ccac00,stroke-width:2px,color:#000
-```
-
-</div>
-
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'pieStrokeWidth': '2px', 'pieOuterStrokeWidth': '3px'}}}%%
-pie title Content Focus Areas
-    "Programming & Tech" : 40
-    "AI & Emerging Tech" : 30
-    "Personal Development" : 20
-    "Finance & Productivity" : 10
-```
-
-<br><br><br>
-
-</div>
-
 ---
 
 ---
 
-
-
-
-
+</div>
 
 <div align="center">
 
@@ -730,25 +542,6 @@ const stay_ConsistentlyCurious = {
 ---
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <br><br><br><br>
 
