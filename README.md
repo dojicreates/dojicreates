@@ -154,13 +154,40 @@ const stay_ConsistentlyCurious = {
 
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 <br><br><br>
 
 ### CORE.MODULES
-
-<br><br><br>
 
 <table>
 <tr>
@@ -202,9 +229,81 @@ A strong body and clear mind lead to sustainable productivity. In tech, mental f
 </tr>
 </table>
 
+
+
+### RESOURCES.AVAILABLE
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/video.png" width="70" style="pointer-events: none;"/>
+
+### **Tutorials**
+
+Full-length Tagalog coding lessons
+
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/pdf.png" width="70" style="pointer-events: none;"/>
+
+### **PDF Notes**
+
+Downloadable study materials & guides
+
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="70" style="pointer-events: none;"/>
+
+### **Source Code**
+
+GitHub repos & project files
+
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/toolbox.png" width="70" style="pointer-events: none;"/>
+
+### **Dev Tools**
+
+Utilities & helper  
+applications
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
 <br><br><br>
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
@@ -468,53 +567,30 @@ pie title Content Focus Areas
 
 ---
 
-<div align="center">
 
-<br><br><br><br>
 
-### RESOURCES.AVAILABLE
 
-<br><br>
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/video.png" width="70" style="pointer-events: none;"/>
 
-### **Tutorials**
 
-Full-length Tagalog coding lessons
 
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/pdf.png" width="70" style="pointer-events: none;"/>
 
-### **PDF Notes**
 
-Downloadable study materials & guides
 
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="70" style="pointer-events: none;"/>
 
-### **Source Code**
 
-GitHub repos & project files
 
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/toolbox.png" width="70" style="pointer-events: none;"/>
 
-### **Dev Tools**
 
-Utilities & helper  
-applications
 
-</td>
-</tr>
-</table>
 
-</div>
+
+
+
+
+
+
+
 
 <br><br><br><br>
 
