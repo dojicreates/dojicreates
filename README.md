@@ -423,14 +423,17 @@ Real-world applications
 <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="65" style="pointer-events: none;"/><br><strong>C++</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/git.png" width="65" style="pointer-events: none;"/><br><strong>Git</strong>
+<img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" width="65" style="pointer-events: none;"/><br><strong>C#</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" width="65" style="pointer-events: none;"/><br><strong>VS Code</strong>
+<img src="https://img.icons8.com/color/96/000000/git.png" width="65" style="pointer-events: none;"/><br><strong>Git</strong>
 </td>
 </tr>
 
 <tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" width="65" style="pointer-events: none;"/><br><strong>VS Code</strong>
+</td>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/github--v1.png" width="65" style="pointer-events: none;"/><br><strong>GitHub</strong>
 </td>
@@ -443,12 +446,12 @@ Real-world applications
 <td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/adobe-premiere-pro--v1.png" width="65" style="pointer-events: none;"/><br><strong>Premiere Pro</strong>
 </td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/video-editing.png" width="65" style="pointer-events: none;"/><br><strong>CapCut</strong>
-</td>
 </tr>
 
 <tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/video-editing.png" width="65" style="pointer-events: none;"/><br><strong>CapCut</strong>
+</td>
 <td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/adobe-after-effects--v1.png" width="65" style="pointer-events: none;"/><br><strong>After Effects</strong>
 </td>
@@ -459,21 +462,26 @@ Real-world applications
 <img src="https://img.icons8.com/color/96/000000/musical-notes.png" width="65" style="pointer-events: none;"/><br><strong>Music</strong>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/paint-palette.png" width="65" style="pointer-events: none;"/><br><strong>Arts</strong>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/color/96/000000/film-reel.png" width="65" style="pointer-events: none;"/><br><strong>Video Editing</strong>
+<img src="https://img.icons8.com/color/96/000000/ableton-live.png" width="65" style="pointer-events: none;"/><br><strong>Ableton</strong>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/paint-palette.png" width="65" style="pointer-events: none;"/><br><strong>Arts</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/film-reel.png" width="65" style="pointer-events: none;"/><br><strong>Video Editing</strong>
+</td>
+<td align="center" width="20%">
 <img src="https://img.icons8.com/color/96/000000/handshake.png" width="65" style="pointer-events: none;"/><br><strong>Content Creation</strong>
 </td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/money.png" width="65" style="pointer-events: none;"/><br><strong>Finance</strong>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/000000/heart-health.png" width="65" style="pointer-events: none;"/><br><strong>Health</strong>
+</td>
 </tr>
 </table>
 
