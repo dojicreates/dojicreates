@@ -34,31 +34,31 @@
 <tr>
 <td><strong>dojicreates.com</strong></td>
 <td>My personal website and portfolio where I showcase my projects and creative work. This was my first publicly shareable project, highlighting responsive design and interactive features.</td>
-<td align="center"><a href="https://dojicreates.com/" target="_blank">🌐 View Site</a></td>
+<td align="center"><a href="https://dojicreates.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Site</a></td>
 </tr>
 
 <tr>
 <td><strong>CSS Tools | dojicreates.com</strong></td>
 <td>A collection of practical CSS utilities and generators designed to help developers and learners experiment with styles. This project strengthened my skills in frontend design, animations, and layout techniques.</td>
-<td align="center"><a href="https://dojicreates.com/css-tools" target="_blank">🌐 View Site</a></td>
+<td align="center"><a href="https://dojicreates.com/css-tools" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Site</a></td>
 </tr>
 
 <tr>
 <td><strong>Unit Converter | dojicreates.com</strong></td>
 <td>An interactive tool that allows users to convert between different units of measurement. This project improved my logic handling, DOM manipulation, and user interface skills.</td>
-<td align="center"><a href="https://dojicreates.com/unit-converter" target="_blank">🌐 View Site</a></td>
+<td align="center"><a href="https://dojicreates.com/unit-converter" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Site</a></td>
 </tr>
 
 <tr>
 <td><strong>Typing Test | dojicreates.com</strong></td>
 <td>A web-based typing speed and accuracy test to help users improve their typing skills. This project focused on timing functions, event handling, and real-time performance tracking.</td>
-<td align="center"><a href="https://dojicreates.com/typing-test" target="_blank">🌐 View Site</a></td>
+<td align="center"><a href="https://dojicreates.com/typing-test" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Site</a></td>
 </tr>
 
 <tr>
 <td><strong>Randomizer | dojicreates.com</strong></td>
 <td>An app that generates random results such as numbers, choices, or lists. This project sharpened my skills in algorithm design, randomness handling, and dynamic UI updates.</td>
-<td align="center"><a href="https://dojicreates.com/randomizer" target="_blank">🌐 View Site</a></td>
+<td align="center"><a href="https://dojicreates.com/randomizer" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/github.png" width="24" height="24" style="pointer-events: none;"/> View Site</a></td>
 </tr>
 
 </table>
@@ -74,7 +74,7 @@
 <table>
 <tr>
 <td align="center" width="20%">
-<strong>🌐 Web Dev</strong><br><br>
+<strong>Web Dev</strong><br><br>
 HTML5 Basics<br>
 CSS Styling<br>
 JavaScript<br>
@@ -82,7 +82,7 @@ React & Tailwind<br><br>
 <img src="https://img.shields.io/badge/-Tagalog-00d4ff?style=flat-square"/>
 </td>
 <td align="center" width="20%">
-<strong>⚙️ C/C++</strong><br><br>
+<strong>C/C++</strong><br><br>
 Syntax & Structure<br>
 Data Structures<br>
 Algorithms<br>
@@ -90,7 +90,7 @@ Memory Management<br><br>
 <img src="https://img.shields.io/badge/-Tagalog-00ff88?style=flat-square"/>
 </td>
 <td align="center" width="20%">
-<strong>🐍 Python</strong><br><br>
+<strong>Python</strong><br><br>
 Getting Started<br>
 File Handling<br>
 Libraries<br>
@@ -98,7 +98,7 @@ Projects<br><br>
 <img src="https://img.shields.io/badge/-Tagalog-ff00ff?style=flat-square"/>
 </td>
 <td align="center" width="20%">
-<strong>☕ Java</strong><br><br>
+<strong>Java</strong><br><br>
 OOP Concepts<br>
 Inheritance<br>
 Polymorphism<br>
@@ -106,7 +106,7 @@ Java Projects<br><br>
 <img src="https://img.shields.io/badge/-Tagalog-ffd700?style=flat-square"/>
 </td>
 <td align="center" width="20%">
-<strong>🤖 AI/ML</strong><br><br>
+<strong>AI/ML</strong><br><br>
 Neural Networks<br>
 ML Algorithms<br>
 Automation<br>
@@ -228,28 +228,28 @@ pie title
 <table>
 <tr>
 <td align="center" width="25%">
-💻
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="80" style="pointer-events: none;"/>
 <br><br>
 <strong>PROGRAMMING</strong>
 <br><br>
 The foundation of all tech innovation. Programming trains your logic, creativity, and problem-solving mindset.
 </td>
 <td align="center" width="25%">
-🤖
+<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="80" style="pointer-events: none;"/>
 <br><br>
 <strong>AI & ROBOTICS</strong>
 <br><br>
 Understanding AI and automation prepares you for the next era of technology where computers think and machines learn.
 </td>
 <td align="center" width="25%">
-🚀
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="80" style="pointer-events: none;"/>
 <br><br>
 <strong>GROWTH</strong>
 <br><br>
 Tech alone isn't enough. Mindset, habits, and discipline fuel consistency, helping you become better every day.
 </td>
 <td align="center" width="25%">
-🧘
+<img src="https://img.icons8.com/fluency/96/000000/meditation-guru.png" width="80" style="pointer-events: none;"/>
 <br><br>
 <strong>WELLNESS</strong>
 <br><br>
@@ -265,28 +265,28 @@ A strong body and clear mind lead to sustainable productivity. Mental focus is y
 <table>
 <tr>
 <td align="center" width="25%">
-🎥
+<img src="https://img.icons8.com/fluency/96/000000/video.png" width="70" style="pointer-events: none;"/>
 <br><br>
 <strong>Video Tutorials</strong>
 <br><br>
 Full-length Tagalog coding lessons with hands-on examples
 </td>
 <td align="center" width="25%">
-📄
+<img src="https://img.icons8.com/fluency/96/000000/pdf.png" width="70" style="pointer-events: none;"/>
 <br><br>
 <strong>PDF Notes</strong>
 <br><br>
 Downloadable study materials and comprehensive guides
 </td>
 <td align="center" width="25%">
-📝
+<img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="70" style="pointer-events: none;"/>
 <br><br>
 <strong>Source Code</strong>
 <br><br>
 GitHub repositories and project files ready to use
 </td>
 <td align="center" width="25%">
-🛠️
+<img src="https://img.icons8.com/fluency/96/000000/toolbox.png" width="70" style="pointer-events: none;"/>
 <br><br>
 <strong>Dev Tools</strong>
 <br><br>
@@ -302,21 +302,21 @@ Utilities and helper applications for productivity
 <table>
 <tr>
 <td align="center" width="33.33%">
-📚
+<img src="https://img.icons8.com/fluency/96/000000/open-book.png" width="80" style="pointer-events: none;"/>
 <br><br>
 <strong>EDUCATE</strong>
 <br><br>
 Tagalog programming tutorials made free and accessible for all Filipino learners
 </td>
 <td align="center" width="33.33%">
-⚡
+<img src="https://img.icons8.com/fluency/96/000000/lightning-bolt.png" width="80" style="pointer-events: none;"/>
 <br><br>
 <strong>INSPIRE</strong>
 <br><br>
 Showing what's achievable while building Filipino tech excellence
 </td>
 <td align="center" width="33.33%">
-🤝
+<img src="https://img.icons8.com/fluency/96/000000/handshake.png" width="80" style="pointer-events: none;"/>
 <br><br>
 <strong>EMPOWER</strong>
 <br><br>
@@ -334,32 +334,32 @@ Practical skills and projects with real-world applications
 <table>
 <tr>
 <td align="center" width="14.28%">
-<strong>HTML5</strong><br>
-🌐
+<img src="https://img.icons8.com/color/96/000000/html-5--v1.png" width="60" style="pointer-events: none;"/>
+<br><strong>HTML5</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>CSS3</strong><br>
-🎨
+<img src="https://img.icons8.com/color/96/000000/css3.png" width="60" style="pointer-events: none;"/>
+<br><strong>CSS3</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>JavaScript</strong><br>
-⚡
+<img src="https://img.icons8.com/color/96/000000/javascript--v1.png" width="60" style="pointer-events: none;"/>
+<br><strong>JavaScript</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>TypeScript</strong><br>
-📘
+<img src="https://img.icons8.com/color/96/000000/typescript.png" width="60" style="pointer-events: none;"/>
+<br><strong>TypeScript</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>React</strong><br>
-⚛️
+<img src="https://img.icons8.com/plasticine/100/react.png" width="60" style="pointer-events: none;"/>
+<br><strong>React</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>Bootstrap</strong><br>
-🅱️
+<img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="60" style="pointer-events: none;"/>
+<br><strong>Bootstrap</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>Tailwind</strong><br>
-💨
+<img src="https://img.icons8.com/color/96/000000/tailwindcss.png" width="60" style="pointer-events: none;"/>
+<br><strong>Tailwind</strong>
 </td>
 </tr>
 </table>
@@ -369,32 +369,32 @@ Practical skills and projects with real-world applications
 <table>
 <tr>
 <td align="center" width="14.28%">
-<strong>Node.js</strong><br>
-🟢
+<img src="https://img.icons8.com/color/96/000000/nodejs.png" width="60" style="pointer-events: none;"/>
+<br><strong>Node.js</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>Python</strong><br>
-🐍
+<img src="https://img.icons8.com/color/96/000000/python--v1.png" width="60" style="pointer-events: none;"/>
+<br><strong>Python</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>Java</strong><br>
-☕
+<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="60" style="pointer-events: none;"/>
+<br><strong>Java</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>C</strong><br>
-©️
+<img src="https://img.icons8.com/color/96/000000/c-programming.png" width="60" style="pointer-events: none;"/>
+<br><strong>C</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>C++</strong><br>
-➕➕
+<img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="60" style="pointer-events: none;"/>
+<br><strong>C++</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>C#</strong><br>
-#️⃣
+<img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png" width="60" style="pointer-events: none;"/>
+<br><strong>C#</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>Vite</strong><br>
-⚡
+<img src="https://img.icons8.com/color/96/000000/vite.png" width="60" style="pointer-events: none;"/>
+<br><strong>Vite</strong>
 </td>
 </tr>
 </table>
@@ -404,24 +404,24 @@ Practical skills and projects with real-world applications
 <table>
 <tr>
 <td align="center" width="14.28%">
-<strong>Git</strong><br>
-🔀
+<img src="https://img.icons8.com/color/96/000000/git.png" width="60" style="pointer-events: none;"/>
+<br><strong>Git</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>GitHub</strong><br>
-🐙
+<img src="https://img.icons8.com/color/96/000000/github--v1.png" width="60" style="pointer-events: none;"/>
+<br><strong>GitHub</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>VS Code</strong><br>
-💻
+<img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" width="60" style="pointer-events: none;"/>
+<br><strong>VS Code</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>Figma</strong><br>
-🎨
+<img src="https://img.icons8.com/color/96/000000/figma--v1.png" width="60" style="pointer-events: none;"/>
+<br><strong>Figma</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>Android Studio</strong><br>
-📱
+<img src="https://img.icons8.com/color/96/000000/android-studio--v1.png" width="60" style="pointer-events: none;"/>
+<br><strong>Android Studio</strong>
 </td>
 <td align="center" width="14.28%">
 </td>
@@ -439,32 +439,32 @@ Practical skills and projects with real-world applications
 <table>
 <tr>
 <td align="center" width="14.28%">
-<strong>Premiere Pro</strong><br>
-🎬
+<img src="https://img.icons8.com/color/96/000000/adobe-premiere-pro--v1.png" width="60" style="pointer-events: none;"/>
+<br><strong>Premiere Pro</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>After Effects</strong><br>
-✨
+<img src="https://img.icons8.com/color/96/000000/adobe-after-effects--v1.png" width="60" style="pointer-events: none;"/>
+<br><strong>After Effects</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>CapCut</strong><br>
-✂️
+<img src="https://img.icons8.com/color/96/000000/video-editing.png" width="60" style="pointer-events: none;"/>
+<br><strong>CapCut</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>Photography</strong><br>
-📷
+<img src="https://img.icons8.com/color/96/000000/camera--v1.png" width="60" style="pointer-events: none;"/>
+<br><strong>Photography</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>Video Editing</strong><br>
-🎥
+<img src="https://img.icons8.com/color/96/000000/film-reel.png" width="60" style="pointer-events: none;"/>
+<br><strong>Video Editing</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>Content Creation</strong><br>
-📹
+<img src="https://img.icons8.com/color/96/000000/handshake.png" width="60" style="pointer-events: none;"/>
+<br><strong>Content Creation</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>Digital Arts</strong><br>
-🎨
+<img src="https://img.icons8.com/color/96/000000/paint-palette.png" width="60" style="pointer-events: none;"/>
+<br><strong>Digital Arts</strong>
 </td>
 </tr>
 </table>
@@ -474,20 +474,20 @@ Practical skills and projects with real-world applications
 <table>
 <tr>
 <td align="center" width="14.28%">
-<strong>Music</strong><br>
-🎵
+<img src="https://img.icons8.com/color/96/000000/musical-notes.png" width="60" style="pointer-events: none;"/>
+<br><strong>Music</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>Ableton Live</strong><br>
-🎹
+<img src="https://img.icons8.com/color/96/000000/ableton-live.png" width="60" style="pointer-events: none;"/>
+<br><strong>Ableton Live</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>Finance</strong><br>
-💰
+<img src="https://img.icons8.com/color/96/000000/money.png" width="60" style="pointer-events: none;"/>
+<br><strong>Finance</strong>
 </td>
 <td align="center" width="14.28%">
-<strong>Health & Wellness</strong><br>
-❤️
+<img src="https://img.icons8.com/color/96/000000/heart-health.png" width="60" style="pointer-events: none;"/>
+<br><strong>Health & Wellness</strong>
 </td>
 <td align="center" width="14.28%">
 </td>
