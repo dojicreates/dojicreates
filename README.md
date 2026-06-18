@@ -31,15 +31,15 @@
 <th align="left" style="width:20%; padding:12px 16px; color:#ffffff; font-size:14px; border-bottom:1px solid #3a2a5c;">Link</th>
 </tr>
 <tr style="background-color:#1c1430;">
-<td style="padding:12px 16px; color:#e8e3f5; font-size:14px;">dojicreates.com.media</td>
-<td style="padding:12px 16px; color:#b8b0d0; font-size:13px;">Source files and media assets for the Doji Creates website.</td>
-<td style="padding:12px 16px; font-size:14px;"><a href="https://github.com/dojicreates/dojicreates.com.media" style="color:#a78bfa;">View</a></td>
+<td style="padding:12px 16px; color:#e8e3f5; font-size:14px;">Local Obsidian MCP Server with Claude</td>
+<td style="padding:12px 16px; color:#b8b0d0; font-size:13px;">Sets up a local MCP server to connect your Obsidian vault with Claude. Read, write, search, and manage notes using Claude's language capabilities, all within your Obsidian workflow.</td>
+<td style="padding:12px 16px; font-size:14px;"><a href="https://github.com/dojicreates/Local-Obsidian-MCP-Server-with-Claude" style="color:#a78bfa;">View</a></td>
 </tr>
 </table>
 
 <br>
 
-## Downloadable PDF Notes
+## Learning Guide PDF Notes
 
 <table style="width:100%; table-layout:fixed; border-collapse:collapse; border:1px solid #3a2a5c; border-radius:8px; overflow:hidden;">
 <tr style="background-color:#2a1f4d;">
